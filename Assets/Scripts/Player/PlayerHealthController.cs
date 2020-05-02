@@ -62,4 +62,10 @@ public class PlayerHealthController : MonoBehaviour
 			UIController.instance.UpdateHealthDisplay();
 		}
 	}
+
+    public void WinLife()
+    {
+		currentHealth++;
+		UIController.instance.UpdateHealthDisplay();
+	}
 }
