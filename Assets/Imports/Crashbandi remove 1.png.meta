@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: c09a605b8af11b047aae928be62046c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6140406301809026444
+    second: Crashbandi remove 1_0
+  - first:
+      213: -1891524246735239544
+    second: Crashbandi remove 1_1
+  - first:
+      213: 3982700938087610102
+    second: Crashbandi remove 1_2
+  - first:
+      213: 6638675746832460707
+    second: Crashbandi remove 1_3
+  - first:
+      213: 1489270261978616553
+    second: Crashbandi remove 1_4
+  - first:
+      213: 4243933831329591542
+    second: Crashbandi remove 1_5
+  - first:
+      213: -3686565001622160860
+    second: Crashbandi remove 1_6
+  - first:
+      213: 4427452267398497326
+    second: Crashbandi remove 1_7
+  - first:
+      213: 5867347673544714049
+    second: Crashbandi remove 1_8
+  - first:
+      213: -4919119864093538415
+    second: Crashbandi remove 1_9
+  - first:
+      213: -2665635214538490899
+    second: Crashbandi remove 1_10
+  - first:
+      213: -1435019363127427990
+    second: Crashbandi remove 1_11
+  - first:
+      213: 498257402586686067
+    second: Crashbandi remove 1_12
+  - first:
+      213: -2702912377994387548
+    second: Crashbandi remove 1_13
+  - first:
+      213: 2077808049996523674
+    second: Crashbandi remove 1_14
+  - first:
+      213: -815615494552467739
+    second: Crashbandi remove 1_15
+  - first:
+      213: 3045141535753129963
+    second: Crashbandi remove 1_16
+  - first:
+      213: -6745475976827102338
+    second: Crashbandi remove 1_17
+  - first:
+      213: 5493855403345755249
+    second: Crashbandi remove 1_18
+  - first:
+      213: 8727729239805164304
+    second: Crashbandi remove 1_19
+  - first:
+      213: 2341436586747665119
+    second: Crashbandi remove 1_20
+  - first:
+      213: 6576662924259113222
+    second: Crashbandi remove 1_21
+  - first:
+      213: 6888479206627176346
+    second: Crashbandi remove 1_22
+  - first:
+      213: 7432661765802877766
+    second: Crashbandi remove 1_23
+  - first:
+      213: -7976462150956961887
+    second: Crashbandi remove 1_24
+  - first:
+      213: 6209010454970445639
+    second: Crashbandi remove 1_25
+  - first:
+      213: -7642537115323066893
+    second: Crashbandi remove 1_26
+  - first:
+      213: 8807336531782338732
+    second: Crashbandi remove 1_27
+  - first:
+      213: -6998046050618120225
+    second: Crashbandi remove 1_28
+  - first:
+      213: 6793679748018437131
+    second: Crashbandi remove 1_29
+  - first:
+      213: 1624835389551348740
+    second: Crashbandi remove 1_30
+  - first:
+      213: 7439269337959589905
+    second: Crashbandi remove 1_31
+  - first:
+      213: 2621962121728860162
+    second: Crashbandi remove 1_32
+  - first:
+      213: 4358856434619828034
+    second: Crashbandi remove 1_33
+  - first:
+      213: -1200964156214384646
+    second: Crashbandi remove 1_34
+  - first:
+      213: -3800282181875191533
+    second: Crashbandi remove 1_35
+  - first:
+      213: 6747521286112142354
+    second: Crashbandi remove 1_36
+  - first:
+      213: -5386199865864057256
+    second: Crashbandi remove 1_37
+  - first:
+      213: -3154299055342725637
+    second: Crashbandi remove 1_38
+  - first:
+      213: -6998253107961713303
+    second: Crashbandi remove 1_39
+  - first:
+      213: 549129999041497675
+    second: Crashbandi remove 1_40
+  - first:
+      213: 7608700032783112604
+    second: Crashbandi remove 1_41
+  - first:
+      213: -6984941799767916028
+    second: Crashbandi remove 1_42
+  - first:
+      213: 4622471825381147473
+    second: Crashbandi remove 1_43
+  - first:
+      213: -5583237845544826603
+    second: Crashbandi remove 1_44
+  - first:
+      213: -8076702811867008661
+    second: Crashbandi remove 1_45
+  - first:
+      213: 307115329262469175
+    second: Crashbandi remove 1_46
+  - first:
+      213: 507161690054606118
+    second: Crashbandi remove 1_47
+  - first:
+      213: -1401596553035892541
+    second: Crashbandi remove 1_48
+  - first:
+      213: -2841265464369491827
+    second: Crashbandi remove 1_49
+  - first:
+      213: -7911031308651970469
+    second: Crashbandi remove 1_50
+  - first:
+      213: -2298397687464596580
+    second: Crashbandi remove 1_51
+  - first:
+      213: -1012223438770323518
+    second: Crashbandi remove 1_52
+  - first:
+      213: 6965345743910354801
+    second: Crashbandi remove 1_53
+  - first:
+      213: -3257439619531146056
+    second: Crashbandi remove 1_54
+  - first:
+      213: 9110365448550047156
+    second: Crashbandi remove 1_55
+  - first:
+      213: 8844786966884028118
+    second: Crashbandi remove 1_56
+  - first:
+      213: -1410122689672974746
+    second: Crashbandi remove 1_57
+  - first:
+      213: -6368605301711869957
+    second: Crashbandi remove 1_58
+  - first:
+      213: 3780635907434501355
+    second: Crashbandi remove 1_59
+  - first:
+      213: -5955397493970192433
+    second: Crashbandi remove 1_60
+  - first:
+      213: -4795508419424868436
+    second: Crashbandi remove 1_61
+  - first:
+      213: -7070852195812311389
+    second: Crashbandi remove 1_62
+  - first:
+      213: -4305242371103194372
+    second: Crashbandi remove 1_63
+  - first:
+      213: -2170479520033450114
+    second: Crashbandi remove 1_64
+  - first:
+      213: 1115253110824338779
+    second: Crashbandi remove 1_65
+  - first:
+      213: 1458637211960662469
+    second: Crashbandi remove 1_66
+  - first:
+      213: 7314444295150024553
+    second: Crashbandi remove 1_67
+  - first:
+      213: 5032135329204161322
+    second: Crashbandi remove 1_68
+  - first:
+      213: 1558191380022899003
+    second: Crashbandi remove 1_69
+  - first:
+      213: 5614875994336568435
+    second: Crashbandi remove 1_70
+  - first:
+      213: 8992688844367526301
+    second: Crashbandi remove 1_71
+  - first:
+      213: -2437355939851803884
+    second: Crashbandi remove 1_72
+  - first:
+      213: 7046379795462310360
+    second: Crashbandi remove 1_73
+  - first:
+      213: -4512023256297513462
+    second: Crashbandi remove 1_74
+  - first:
+      213: 6511497025454522368
+    second: Crashbandi remove 1_75
+  - first:
+      213: -8830685089990494820
+    second: Crashbandi remove 1_76
+  - first:
+      213: 8015500425703373811
+    second: Crashbandi remove 1_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crashbandi remove 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5a147005e8caa0800000000000000
+      internalID: -6140406301809026444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 260
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ce4528b4ffb5e0800000000000000
+      internalID: -1891524246735239544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 260
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6b355e665654730800000000000000
+      internalID: 3982700938087610102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab23f42b60512c50800000000000000
+      internalID: 6638675746832460707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 260
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d9cba963faa410800000000000000
+      internalID: 1489270261978616553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 260
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b9a2955b75ea30800000000000000
+      internalID: 4243933831329591542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7cecc9a0b6dcc0800000000000000
+      internalID: -3686565001622160860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 223
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24094a2168717d30800000000000000
+      internalID: 4427452267398497326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 244
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e85f5f910d6150800000000000000
+      internalID: 5867347673544714049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 244
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970325db86cbbbb0800000000000000
+      internalID: -4919119864093538415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb39a045e2c10bd0800000000000000
+      internalID: -2665635214538490899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 244
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7bf60e79c51ce0800000000000000
+      internalID: -1435019363127427990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 244
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37263efb77a2ae600800000000000000
+      internalID: 498257402586686067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 244
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af53aa43835d7ad0800000000000000
+      internalID: -2702912377994387548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 156
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a986d7ba96bd5dc10800000000000000
+      internalID: 2077808049996523674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e645ed670a5ea4f0800000000000000
+      internalID: -815615494552467739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 203
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4a59c714824a20800000000000000
+      internalID: 3045141535753129963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 203
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1a4096514362a0800000000000000
+      internalID: -6745475976827102338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 210
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cb8c3b1681e3c40800000000000000
+      internalID: 5493855403345755249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b706a808f1f1970800000000000000
+      internalID: 8727729239805164304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 186
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda92319b247e7020800000000000000
+      internalID: 2341436586747665119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 186
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60932ffb510054b50800000000000000
+      internalID: 6576662924259113222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6da9775bc89f50800000000000000
+      internalID: 6888479206627176346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 186
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ee4efe7e162760800000000000000
+      internalID: 7432661765802877766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afacdf4fe9ed4190800000000000000
+      internalID: -7976462150956961887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f233fac16da2650800000000000000
+      internalID: 6209010454970445639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 166
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f51e6a4cf040f590800000000000000
+      internalID: -7642537115323066893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8053299e1f93a70800000000000000
+      internalID: 8807336531782338732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e417b132f1ee90800000000000000
+      internalID: -6998046050618120225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 149
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c77628cbff74e50800000000000000
+      internalID: 6793679748018437131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c01b49d239c8610800000000000000
+      internalID: 1624835389551348740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11869854c089d3760800000000000000
+      internalID: 7439269337959589905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200ad2078a4136420800000000000000
+      internalID: 2621962121728860162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c07445d4cd7c30800000000000000
+      internalID: 4358856434619828034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76dd08671555fe0800000000000000
+      internalID: -1200964156214384646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31135178d7fa24bc0800000000000000
+      internalID: -3800282181875191533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e91d1cd204ad50800000000000000
+      internalID: 6747521286112142354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8ae162cf5045b0800000000000000
+      internalID: -5386199865864057256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf552faa8bda934d0800000000000000
+      internalID: -3154299055342725637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 92
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2bab60e531ee90800000000000000
+      internalID: -6998253107961713303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 92
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a016023d6ee9700800000000000000
+      internalID: 549129999041497675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995a800e58879960800000000000000
+      internalID: 7608700032783112604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 92
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024e00e070801f90800000000000000
+      internalID: -6984941799767916028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 92
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153481062a1562040800000000000000
+      internalID: 4622471825381147473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51988cfb2ca5482b0800000000000000
+      internalID: -5583237845544826603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b446b599c9ef80800000000000000
+      internalID: -8076702811867008661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 75
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73044c9c3c7134400800000000000000
+      internalID: 307115329262469175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d346bbedcc90700800000000000000
+      internalID: 507161690054606118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 75
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c832e96c578c8ce0800000000000000
+      internalID: -1401596553035892541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80dba32d1cc198d0800000000000000
+      internalID: -2841265464369491827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504ec070fe563290800000000000000
+      internalID: -7911031308651970469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be71e0b737a10e0800000000000000
+      internalID: -2298397687464596580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf35ca352cd3f1f0800000000000000
+      internalID: -1012223438770323518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f3e83dc01e9a060800000000000000
+      internalID: 6965345743910354801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcff88bcef3bc2d0800000000000000
+      internalID: -3257439619531146056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd51de4b158e6e70800000000000000
+      internalID: 9110365448550047156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de802b72eefeba70800000000000000
+      internalID: 8844786966884028118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee25882ec3e6ce0800000000000000
+      internalID: -1410122689672974746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_58
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 55
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf76bcc683b2e97a0800000000000000
+      internalID: -6368605301711869957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be458bfb354877430800000000000000
+      internalID: 3780635907434501355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b7a3488d2a5da0800000000000000
+      internalID: -5955397493970192433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca729ce008ee27db0800000000000000
+      internalID: -4795508419424868436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef05114694fdd90800000000000000
+      internalID: -7070852195812311389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20f66afd4b044c0800000000000000
+      internalID: -4305242371103194372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7755205068e0e1e0800000000000000
+      internalID: -2170479520033450114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_65
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558551abcc2a7f00800000000000000
+      internalID: 1115253110824338779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9d41be0de1e3410800000000000000
+      internalID: 1458637211960662469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 38
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967bcc53550228560800000000000000
+      internalID: 7314444295150024553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b48e6ab6cb5d540800000000000000
+      internalID: 5032135329204161322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b313752fdcecf9510800000000000000
+      internalID: 1558191380022899003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ac4cc7fb0ced40800000000000000
+      internalID: 5614875994336568435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f420dbd27ccc70800000000000000
+      internalID: 8992688844367526301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 18
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e1f5bfa5cc2ed0800000000000000
+      internalID: -2437355939851803884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d945053715c9c160800000000000000
+      internalID: 7046379795462310360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed51e01c21261c0800000000000000
+      internalID: -4512023256297513462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ca369b0c7d5a50800000000000000
+      internalID: 6511497025454522368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9537c792ba137580800000000000000
+      internalID: -8830685089990494820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crashbandi remove 1_77
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbba035b27cc3f60800000000000000
+      internalID: 8015500425703373811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
