@@ -1247,6 +1247,8 @@ MonoBehaviour:
   currentHealth: 0
   maxHealth: 3
   invincibleLength: 1
+  AkuAku: {fileID: 477914838}
+  isAttack: 0
 --- !u!1 &1360410869
 GameObject:
   m_ObjectHideFlags: 0
