@@ -10,24 +10,62 @@ public class AkuAkuController : MonoBehaviour
     private int left = 2;
     private int right = -2;
 
+    private int lives = 3;
+
     private void LateUpdate()
     {
-        //Player's direction
-        if (target.GetComponent<PlayerController>().theSR.flipX)
+        if (gameObject.activeInHierarchy)
         {
-            offset = new Vector3(left, offset.y, offset.z);
-            transform.rotation = new Quaternion(0, 0, 0, 0);
-        }
-        else
-        {
-            offset = new Vector3(right, offset.y, offset.z);
-            transform.rotation = new Quaternion(0,180,0,0);
+            //Player's direction
+            //Change Sprite Direction
+            if (target.GetComponent<PlayerController>().theSR.flipX)
+            {
+                offset = new Vector3(left, offset.y, offset.z);
+                transform.rotation = new Quaternion(0, 0, 0, 0);
+            }
+            else
+            {
+                offset = new Vector3(right, offset.y, offset.z);
+                transform.rotation = new Quaternion(0, 180, 0, 0);
+
+            }
+
+            //Set the new position
+            Vector3 finalPos = target.transform.position + offset;
+            Vector3 smoothPos = Vector3.Lerp(transform.position, finalPos, smoothSpeed * Time.deltaTime);
+
+            transform.position = smoothPos;
+            
+            if (lives <= 0)
+            {
+                //Dead
+                gameObject.SetActive(false);
+            }
+
+            //Shield
+            if ()
+            {
+                if (lives == 3)
+                {
+                    //3 lives 
+
+
+                }
+                else if (lives == 2)
+                {
+                    //2 lives
+
+
+                }
+                else if (lives == 1)
+                {
+                    //1 life
+
+
+                }
+            }
 
         }
 
-        Vector3 finalPos = target.transform.position + offset;
-        Vector3 smoothPos = Vector3.Lerp(transform.position, finalPos, smoothSpeed * Time.deltaTime);
-
-        transform.position = smoothPos;
     }
 }
