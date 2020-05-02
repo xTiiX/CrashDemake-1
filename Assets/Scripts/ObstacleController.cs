@@ -4,18 +4,12 @@ using UnityEngine;
 
 public class ObstacleController : MonoBehaviour
 {
-
-    public GameObject Crash;
-
-    // Start is called before the first frame update
-    void Start()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
-    }
+        if (other.tag == "Player")
+        {
+            PlayerHealthController.instance.DealDamage();
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
