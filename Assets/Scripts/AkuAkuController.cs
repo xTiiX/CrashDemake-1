@@ -43,7 +43,7 @@ public class AkuAkuController : MonoBehaviour
             }
 
             //Shield
-            if ()
+            if (target.GetComponent<PlayerHealthController>().isAttack)
             {
                 if (lives == 3)
                 {
