@@ -1,24 +1,21 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class WumpaController : MonoBehaviour
 {
+    public static WumpaController instance;
     public int value = 1;
 
     private GameObject UI;
 
-    // Start is called before the first frame update
+    private void Awake()
+    {
+        instance = this;
+    }
+
     void Start()
     {
         UI = GameObject.FindGameObjectWithTag("WumpaAmount");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     void OnTriggerEnter2D(Collider2D collision)
@@ -28,6 +25,11 @@ public class WumpaController : MonoBehaviour
             int wumpaUI = int.Parse(UI.GetComponent<Text>().text) + value;
             UI.GetComponent<Text>().text = wumpaUI + "";
             Destroy(gameObject);
+
+            if (wumpaUI == 3) // 100 default
+            {
+                PlayerHealthController.instance.WinLive();
+            }
         }
     }
 }
