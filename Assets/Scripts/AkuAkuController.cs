@@ -10,7 +10,7 @@ public class AkuAkuController : MonoBehaviour
     private int left = 2;
     private int right = -2;
 
-    private int lives = 3;
+    public int lives = 3;
 
     private void LateUpdate()
     {
@@ -48,20 +48,26 @@ public class AkuAkuController : MonoBehaviour
                 if (lives == 3)
                 {
                     //3 lives 
-                    
+                    lives--;
 
+                    //Change the sprite
+                    target.GetComponent<PlayerHealthController>().isAttack = false;
                 }
                 else if (lives == 2)
                 {
                     //2 lives
+                    lives--;
 
-
+                    //Change the sprite
+                    target.GetComponent<PlayerHealthController>().isAttack = false;
                 }
                 else if (lives == 1)
                 {
                     //1 life
+                    lives--;
 
-
+                    //Change the sprite
+                    target.GetComponent<PlayerHealthController>().isAttack = false;
                 }
             }
 
