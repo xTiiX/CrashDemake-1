@@ -48,7 +48,7 @@ public class AkuAkuController : MonoBehaviour
                 if (lives == 3)
                 {
                     //3 lives 
-
+                    
 
                 }
                 else if (lives == 2)
