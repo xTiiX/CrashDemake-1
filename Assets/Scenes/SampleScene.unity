@@ -240,7 +240,7 @@ PrefabInstance:
     - target: {fileID: 1090353231421025373, guid: c0000055913e2488faf7d1c376b06967,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 1090353231421025373, guid: c0000055913e2488faf7d1c376b06967,
         type: 3}
@@ -309,7 +309,7 @@ PrefabInstance:
     - target: {fileID: 1090353231421025373, guid: c0000055913e2488faf7d1c376b06967,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 1090353231421025373, guid: c0000055913e2488faf7d1c376b06967,
         type: 3}
@@ -520,7 +520,7 @@ Transform:
   m_LocalScale: {x: 1.5597823, y: 0.47403106, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &487549688
 BoxCollider2D:
@@ -830,7 +830,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -342.5, y: 268.33}
+  m_AnchoredPosition: {x: -344, y: 200.97}
   m_SizeDelta: {x: 44.153152, y: 44.153152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &805683810
