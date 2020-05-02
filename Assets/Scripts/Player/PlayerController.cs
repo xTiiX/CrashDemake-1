@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
 	public LayerMask whatIsGround;
 	
 	private Animator anim;
-	private SpriteRenderer theSR;
+	public SpriteRenderer theSR;
 	
 	public float knockBackLength, knockBackForce;
 	private float knockBackCounter;
@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-		horizontal = Input.GetAxis("Horizontal");
+        horizontal = Input.GetAxis("Horizontal");
 
 		if (knockBackCounter <= 0)
 		{
@@ -55,7 +55,6 @@ public class PlayerController : MonoBehaviour
 			} else if(theRB.velocity.x > 0)
 			{
 				theSR.flipX = false;
-					
 			}
 		
 		} else
