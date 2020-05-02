@@ -28,7 +28,7 @@ public class WumpaController : MonoBehaviour
 
             if (wumpaUI == 3) // 100 default
             {
-                PlayerHealthController.instance.WinLive();
+                PlayerHealthController.instance.WinLife();
             }
         }
     }

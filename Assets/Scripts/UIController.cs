@@ -13,7 +13,7 @@ public class UIController : MonoBehaviour
 
     void Start()
     {
-        UI = GameObject.FindGameObjectWithTag("LiveAmount");
+        UI = GameObject.FindGameObjectWithTag("LifeAmount");
         UI.GetComponent<Text>().text = PlayerHealthController.instance.maxHealth + "";
     }
 
