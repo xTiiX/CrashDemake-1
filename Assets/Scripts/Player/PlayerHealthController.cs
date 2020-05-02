@@ -69,4 +69,10 @@ public class PlayerHealthController : MonoBehaviour
             isAttack = true;
         }
 	}
+
+    public void WinLife()
+    {
+		currentHealth++;
+		UIController.instance.UpdateHealthDisplay();
+	}
 }
