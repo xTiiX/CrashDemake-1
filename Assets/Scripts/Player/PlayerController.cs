@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
 
 	private float horizontal;
 
-    public bool isAttacking = false;
+    public bool isInAttack;
 	
 	public void Awake()
 	{
@@ -80,7 +80,7 @@ public class PlayerController : MonoBehaviour
 		
 		anim.SetFloat("moveSpeed", Mathf.Abs(theRB.velocity.x));
 		anim.SetBool("isGrounded", isGrounded);
-        anim.SetBool("isAttacking", isAttacking);
+        anim.SetBool("isInAttack", isInAttack);
     }
 	
 	public void knockBack()
@@ -96,11 +96,9 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator crashAttack()
     {
-        isAttacking = true;
-        GetComponent<SpriteRenderer>().color = Color.blue;
+        isInAttack = true;
         Debug.Log("Crash is Attacking");
         yield return new WaitForSeconds(1f);
-        isAttacking = false;
-        GetComponent<SpriteRenderer>().color = Color.white;
+        isInAttack = false;
     }
 }
