@@ -940,6 +940,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BoxIron (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3441933571680717311, guid: 8cbd6c0563167fc4cbbff7835771efeb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cbd6c0563167fc4cbbff7835771efeb, type: 3}
 --- !u!1001 &451502613
@@ -8800,6 +8805,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BoxIron
+      objectReference: {fileID: 0}
+    - target: {fileID: 3441933571680717311, guid: 8cbd6c0563167fc4cbbff7835771efeb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cbd6c0563167fc4cbbff7835771efeb, type: 3}

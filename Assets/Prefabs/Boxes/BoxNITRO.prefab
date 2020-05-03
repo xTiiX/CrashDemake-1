@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1567471506096356147}
   - component: {fileID: 1567471506096356148}
   - component: {fileID: 1567471506096356145}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BoxNITRO
   m_TagString: Untagged
   m_Icon: {fileID: 0}

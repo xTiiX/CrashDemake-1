@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6003854069662419267}
   - component: {fileID: 6003854069662419266}
   - component: {fileID: 2249735542329845213}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BoxTNT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
