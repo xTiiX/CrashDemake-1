@@ -1,0 +1,7616 @@
+fileFormatVersion: 2
+guid: 7a9537ee580647a48bbed0de03e617b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7333354359180905347
+    second: Boxe_0
+  - first:
+      213: -2163359786924677982
+    second: Boxe_1
+  - first:
+      213: -3421531015288756094
+    second: Boxe_2
+  - first:
+      213: -3230027290270095243
+    second: Boxe_3
+  - first:
+      213: 776357216956722209
+    second: Boxe_4
+  - first:
+      213: -3767199072083734113
+    second: Boxe_5
+  - first:
+      213: -873738137137652919
+    second: Boxe_6
+  - first:
+      213: 2936204140017466486
+    second: Boxe_7
+  - first:
+      213: -2823719716752088493
+    second: Boxe_8
+  - first:
+      213: -7915068953000622685
+    second: Boxe_9
+  - first:
+      213: -7121206707090641579
+    second: Boxe_10
+  - first:
+      213: 8288624893022205299
+    second: Boxe_11
+  - first:
+      213: 2663199185243013307
+    second: Boxe_12
+  - first:
+      213: -1635903480642921193
+    second: Boxe_13
+  - first:
+      213: -4632884579696544528
+    second: Boxe_14
+  - first:
+      213: -6788617361145086886
+    second: Boxe_15
+  - first:
+      213: 6640709683997224611
+    second: Boxe_16
+  - first:
+      213: 9133950902969298241
+    second: Boxe_17
+  - first:
+      213: -3558196897436916485
+    second: Boxe_18
+  - first:
+      213: -8112873259458991969
+    second: Boxe_19
+  - first:
+      213: -8134742805961008981
+    second: Boxe_20
+  - first:
+      213: 7099043981944354698
+    second: Boxe_21
+  - first:
+      213: 5930362015447792627
+    second: Boxe_22
+  - first:
+      213: 1224653895707194891
+    second: Boxe_23
+  - first:
+      213: 6105587676780218705
+    second: Boxe_24
+  - first:
+      213: -598563233422423857
+    second: Boxe_25
+  - first:
+      213: 5131376113525268396
+    second: Boxe_26
+  - first:
+      213: -3135566696785321302
+    second: Boxe_27
+  - first:
+      213: -3556834014427503091
+    second: Boxe_28
+  - first:
+      213: -6047082609755930565
+    second: Boxe_29
+  - first:
+      213: -4610231352631648181
+    second: Boxe_30
+  - first:
+      213: 6914280287454853010
+    second: Boxe_31
+  - first:
+      213: 8929774298685476244
+    second: Boxe_32
+  - first:
+      213: -4432985727587018472
+    second: Boxe_33
+  - first:
+      213: -1338716504944726427
+    second: Boxe_34
+  - first:
+      213: 2097603985298441737
+    second: Boxe_35
+  - first:
+      213: 222083058283097335
+    second: Boxe_36
+  - first:
+      213: 8609297111768527940
+    second: Boxe_37
+  - first:
+      213: 2605843327952680855
+    second: Boxe_38
+  - first:
+      213: -152342848188687410
+    second: Boxe_39
+  - first:
+      213: -7708790356811595590
+    second: Boxe_40
+  - first:
+      213: 3026249567627520063
+    second: Boxe_41
+  - first:
+      213: -7555688295952666329
+    second: Boxe_42
+  - first:
+      213: -7527533531337256411
+    second: Boxe_43
+  - first:
+      213: 2614974246829384015
+    second: Boxe_44
+  - first:
+      213: 7866724069418286571
+    second: Boxe_45
+  - first:
+      213: -4003178951345358906
+    second: Boxe_46
+  - first:
+      213: -5263925172552312515
+    second: Boxe_47
+  - first:
+      213: 8032584536415043992
+    second: Boxe_48
+  - first:
+      213: -8949816920289231336
+    second: Boxe_49
+  - first:
+      213: 8052856987525546450
+    second: Boxe_50
+  - first:
+      213: -3371059382492642524
+    second: Boxe_51
+  - first:
+      213: -3086990201710970729
+    second: Boxe_52
+  - first:
+      213: -9056297637672685527
+    second: Boxe_53
+  - first:
+      213: 2387631124597809791
+    second: Boxe_54
+  - first:
+      213: -7335080817860933517
+    second: Boxe_55
+  - first:
+      213: -6207062590102888189
+    second: Boxe_56
+  - first:
+      213: -7895435861689764176
+    second: Boxe_57
+  - first:
+      213: -4941647199606708853
+    second: Boxe_58
+  - first:
+      213: -8194316019634317992
+    second: Boxe_59
+  - first:
+      213: 4699198648778867194
+    second: Boxe_60
+  - first:
+      213: 9133873490190580579
+    second: Boxe_61
+  - first:
+      213: -6229697786032830884
+    second: Boxe_62
+  - first:
+      213: -1777420349843889784
+    second: Boxe_63
+  - first:
+      213: -3922902088775683073
+    second: Boxe_64
+  - first:
+      213: 4232482919584054352
+    second: Boxe_65
+  - first:
+      213: 6486449083708500046
+    second: Boxe_66
+  - first:
+      213: -3052433475033273237
+    second: Boxe_67
+  - first:
+      213: -6622114240307302537
+    second: Boxe_68
+  - first:
+      213: 2896569052219360146
+    second: Boxe_69
+  - first:
+      213: -2709051559314645261
+    second: Boxe_70
+  - first:
+      213: 6805008626224178359
+    second: Boxe_71
+  - first:
+      213: -5827223547381004550
+    second: Boxe_72
+  - first:
+      213: -8347815974519086947
+    second: Boxe_73
+  - first:
+      213: -4662232321284660365
+    second: Boxe_74
+  - first:
+      213: -3351880988025539392
+    second: Boxe_75
+  - first:
+      213: -5310316625212061383
+    second: Boxe_76
+  - first:
+      213: 4671508414839253315
+    second: Boxe_77
+  - first:
+      213: -1487792528447704207
+    second: Boxe_78
+  - first:
+      213: 3033111372174215637
+    second: Boxe_79
+  - first:
+      213: -4220126851640347648
+    second: Boxe_80
+  - first:
+      213: 620620768234229081
+    second: Boxe_81
+  - first:
+      213: -5910059184537097729
+    second: Boxe_82
+  - first:
+      213: 5638199841873830759
+    second: Boxe_83
+  - first:
+      213: 6346812452563202238
+    second: Boxe_84
+  - first:
+      213: 5098644566128900118
+    second: Boxe_85
+  - first:
+      213: -2484934499622648760
+    second: Boxe_86
+  - first:
+      213: -3146671716349068325
+    second: Boxe_87
+  - first:
+      213: 2693099966767783861
+    second: Boxe_88
+  - first:
+      213: 3772051317116219111
+    second: Boxe_89
+  - first:
+      213: -4070557851924674296
+    second: Boxe_90
+  - first:
+      213: -677226817309866832
+    second: Boxe_91
+  - first:
+      213: 2612022372647655889
+    second: Boxe_92
+  - first:
+      213: 5862552882023788933
+    second: Boxe_93
+  - first:
+      213: 3430879159601217220
+    second: Boxe_94
+  - first:
+      213: -2600630269294743184
+    second: Boxe_95
+  - first:
+      213: 9095727142528216558
+    second: Boxe_96
+  - first:
+      213: 4829746121960732912
+    second: Boxe_97
+  - first:
+      213: 4582934237049272741
+    second: Boxe_98
+  - first:
+      213: 1414249617563596218
+    second: Boxe_99
+  - first:
+      213: 6259390810339689293
+    second: Boxe_100
+  - first:
+      213: 2530110271900928654
+    second: Boxe_101
+  - first:
+      213: -1167676848110495240
+    second: Boxe_102
+  - first:
+      213: 1662341034371005466
+    second: Boxe_103
+  - first:
+      213: -5473484237689345567
+    second: Boxe_104
+  - first:
+      213: -8541814546824018712
+    second: Boxe_105
+  - first:
+      213: -5936901484704912812
+    second: Boxe_106
+  - first:
+      213: -3048533583981578669
+    second: Boxe_107
+  - first:
+      213: 2876343421223496891
+    second: Boxe_108
+  - first:
+      213: 4811715067164502648
+    second: Boxe_109
+  - first:
+      213: -4633776547130712073
+    second: Boxe_110
+  - first:
+      213: -5247673242698388141
+    second: Boxe_111
+  - first:
+      213: 1641770293386246939
+    second: Boxe_112
+  - first:
+      213: 8556655925105430239
+    second: Boxe_113
+  - first:
+      213: 6250298802232462509
+    second: Boxe_114
+  - first:
+      213: 3813719157935618364
+    second: Boxe_115
+  - first:
+      213: 7805947149788485926
+    second: Boxe_116
+  - first:
+      213: 1388124657994508609
+    second: Boxe_117
+  - first:
+      213: 7673774080300021562
+    second: Boxe_118
+  - first:
+      213: -4362243198313623023
+    second: Boxe_119
+  - first:
+      213: 559264289684011497
+    second: Boxe_120
+  - first:
+      213: -6319091224707669441
+    second: Boxe_121
+  - first:
+      213: -6934043970669019524
+    second: Boxe_122
+  - first:
+      213: 1280918956901946158
+    second: Boxe_123
+  - first:
+      213: -9202980597214989546
+    second: Boxe_124
+  - first:
+      213: -2042666340421299607
+    second: Boxe_125
+  - first:
+      213: 662443736634159090
+    second: Boxe_126
+  - first:
+      213: 1009311648331028582
+    second: Boxe_127
+  - first:
+      213: 2678423414227433057
+    second: Boxe_128
+  - first:
+      213: -7523064843377243215
+    second: Boxe_129
+  - first:
+      213: 5936296920065675025
+    second: Boxe_130
+  - first:
+      213: -5348724545817376542
+    second: Boxe_131
+  - first:
+      213: -2309394484525148857
+    second: Boxe_132
+  - first:
+      213: 6589305749096339538
+    second: Boxe_133
+  - first:
+      213: -3203551300305418095
+    second: Boxe_134
+  - first:
+      213: 847864505612442871
+    second: Boxe_135
+  - first:
+      213: -2314299283501349609
+    second: Boxe_136
+  - first:
+      213: -604760686728487846
+    second: Boxe_137
+  - first:
+      213: 4075020157982165729
+    second: Boxe_138
+  - first:
+      213: -1293859759709196970
+    second: Boxe_139
+  - first:
+      213: -1518814680447505777
+    second: Boxe_140
+  - first:
+      213: 8631989071938444455
+    second: Boxe_141
+  - first:
+      213: 8502356613935756369
+    second: Boxe_142
+  - first:
+      213: 9065445254489793548
+    second: Boxe_143
+  - first:
+      213: 2515036782674871733
+    second: Boxe_144
+  - first:
+      213: 100551191330234992
+    second: Boxe_145
+  - first:
+      213: -5076673915023623469
+    second: Boxe_146
+  - first:
+      213: 1888931444456457873
+    second: Boxe_147
+  - first:
+      213: -5763091327556422663
+    second: Boxe_148
+  - first:
+      213: -149687859346761409
+    second: Boxe_149
+  - first:
+      213: -1836502688265694269
+    second: Boxe_150
+  - first:
+      213: -3530934141973159793
+    second: Boxe_151
+  - first:
+      213: -6608139858266291436
+    second: Boxe_152
+  - first:
+      213: -8217724650807296205
+    second: Boxe_153
+  - first:
+      213: 1010699605833525753
+    second: Boxe_154
+  - first:
+      213: -5276252903654257259
+    second: Boxe_155
+  - first:
+      213: -623810181687626005
+    second: Boxe_156
+  - first:
+      213: -1426861820398725256
+    second: Boxe_157
+  - first:
+      213: 6732190696650160190
+    second: Boxe_158
+  - first:
+      213: -3229825595358039461
+    second: Boxe_159
+  - first:
+      213: 5823410057122682671
+    second: Boxe_160
+  - first:
+      213: -5202622923111922449
+    second: Boxe_161
+  - first:
+      213: -3458228302110622854
+    second: Boxe_162
+  - first:
+      213: -2607701834381457140
+    second: Boxe_163
+  - first:
+      213: -6664408785411907743
+    second: Boxe_164
+  - first:
+      213: -229461790003712426
+    second: Boxe_165
+  - first:
+      213: 3431629945093523101
+    second: Boxe_166
+  - first:
+      213: 4303222883344962679
+    second: Boxe_167
+  - first:
+      213: -1886605858860740014
+    second: Boxe_168
+  - first:
+      213: -1660190961833311556
+    second: Boxe_169
+  - first:
+      213: -3517231319946321276
+    second: Boxe_170
+  - first:
+      213: 949661774874584859
+    second: Boxe_171
+  - first:
+      213: 7582583755048884969
+    second: Boxe_172
+  - first:
+      213: -1235105814227450560
+    second: Boxe_173
+  - first:
+      213: 8836604219690263820
+    second: Boxe_174
+  - first:
+      213: -2363476305132625464
+    second: Boxe_175
+  - first:
+      213: -544570584948242249
+    second: Boxe_176
+  - first:
+      213: 7039197932702615540
+    second: Boxe_177
+  - first:
+      213: 7728240685544471443
+    second: Boxe_178
+  - first:
+      213: -4417216197156151242
+    second: Boxe_179
+  - first:
+      213: 3427660076593480404
+    second: Boxe_180
+  - first:
+      213: -4822085355112705662
+    second: Boxe_181
+  - first:
+      213: 8348479617356664922
+    second: Boxe_182
+  - first:
+      213: -8728646198649767851
+    second: Boxe_183
+  - first:
+      213: 1340575830484279912
+    second: Boxe_184
+  - first:
+      213: -2826358012951753329
+    second: Boxe_185
+  - first:
+      213: 7674902691093129739
+    second: Boxe_186
+  - first:
+      213: 8597187922068311043
+    second: Boxe_187
+  - first:
+      213: 4588145131839075107
+    second: Boxe_188
+  - first:
+      213: -32732877231611820
+    second: Boxe_189
+  - first:
+      213: 5645147365773537060
+    second: Boxe_190
+  - first:
+      213: -2887870436111227109
+    second: Boxe_191
+  - first:
+      213: 233577782032128818
+    second: Boxe_192
+  - first:
+      213: -2377358546868821109
+    second: Boxe_193
+  - first:
+      213: 1742271074745801115
+    second: Boxe_194
+  - first:
+      213: 2086940018619462110
+    second: Boxe_195
+  - first:
+      213: 73158668564820045
+    second: Boxe_196
+  - first:
+      213: 8484717670008013926
+    second: Boxe_197
+  - first:
+      213: -2124902685735968379
+    second: Boxe_198
+  - first:
+      213: -2519961420991625573
+    second: Boxe_199
+  - first:
+      213: 7124225766625347251
+    second: Boxe_200
+  - first:
+      213: -4359193574362440350
+    second: Boxe_201
+  - first:
+      213: -7759515393106610390
+    second: Boxe_202
+  - first:
+      213: -8086635142431216025
+    second: Boxe_203
+  - first:
+      213: 3448252897631644671
+    second: Boxe_204
+  - first:
+      213: -7681858800307117629
+    second: Boxe_205
+  - first:
+      213: -6052094017277930626
+    second: Boxe_206
+  - first:
+      213: -1340885577948007773
+    second: Boxe_207
+  - first:
+      213: 1547732027221267536
+    second: Boxe_208
+  - first:
+      213: 348484762926208059
+    second: Boxe_209
+  - first:
+      213: 2678537375630025291
+    second: Boxe_210
+  - first:
+      213: -3200932631007328955
+    second: Boxe_211
+  - first:
+      213: 5562880487247989095
+    second: Boxe_212
+  - first:
+      213: -2389006464428516312
+    second: Boxe_213
+  - first:
+      213: 6212103826286651517
+    second: Boxe_214
+  - first:
+      213: 8903634755667693768
+    second: Boxe_215
+  - first:
+      213: 4608711997002335218
+    second: Boxe_216
+  - first:
+      213: 6341733110864111577
+    second: Boxe_217
+  - first:
+      213: 7134903593217781043
+    second: Boxe_218
+  - first:
+      213: 6064169483167781626
+    second: Boxe_219
+  - first:
+      213: 3861359843961635862
+    second: Boxe_220
+  - first:
+      213: -7311982328414386721
+    second: Boxe_221
+  - first:
+      213: -2311707957964199761
+    second: Boxe_222
+  - first:
+      213: 356189028525216775
+    second: Boxe_223
+  - first:
+      213: -453513326027256957
+    second: Boxe_224
+  - first:
+      213: 6070321040064684113
+    second: Boxe_225
+  - first:
+      213: 7997860333246009997
+    second: Boxe_226
+  - first:
+      213: 5577975883307592469
+    second: Boxe_227
+  - first:
+      213: -4388736899012603435
+    second: Boxe_228
+  - first:
+      213: 8658483199153552735
+    second: Boxe_229
+  - first:
+      213: -5064935144580502837
+    second: Boxe_230
+  - first:
+      213: 3861675579050087681
+    second: Boxe_231
+  - first:
+      213: 6275077104757643236
+    second: Boxe_232
+  - first:
+      213: -3395584344364179511
+    second: Boxe_233
+  - first:
+      213: -3732048743009164451
+    second: Boxe_234
+  - first:
+      213: 3525638110732520336
+    second: Boxe_235
+  - first:
+      213: 2932387316831366963
+    second: Boxe_236
+  - first:
+      213: -7167713799542625761
+    second: Boxe_237
+  - first:
+      213: 7499210155530858605
+    second: Boxe_238
+  - first:
+      213: 3495510495090171281
+    second: Boxe_239
+  - first:
+      213: 4468523975247547798
+    second: Boxe_240
+  - first:
+      213: 7253960340064873077
+    second: Boxe_241
+  - first:
+      213: 3327907807692109052
+    second: Boxe_242
+  - first:
+      213: -7226693557383486496
+    second: Boxe_243
+  - first:
+      213: -4420513984950188771
+    second: Boxe_244
+  - first:
+      213: -7999233287461248402
+    second: Boxe_245
+  - first:
+      213: -5471507837114961341
+    second: Boxe_246
+  - first:
+      213: 1531879312034125190
+    second: Boxe_247
+  - first:
+      213: 7396090991601827461
+    second: Boxe_248
+  - first:
+      213: 6135404264284643664
+    second: Boxe_249
+  - first:
+      213: -2266202498505817699
+    second: Boxe_250
+  - first:
+      213: -4110080045255018914
+    second: Boxe_251
+  - first:
+      213: 6027960003021722658
+    second: Boxe_252
+  - first:
+      213: 7554353614063279375
+    second: Boxe_253
+  - first:
+      213: 6202908348725937411
+    second: Boxe_254
+  - first:
+      213: 3304573756564882034
+    second: Boxe_255
+  - first:
+      213: -8311835447499418969
+    second: Boxe_256
+  - first:
+      213: -7085596222878670351
+    second: Boxe_257
+  - first:
+      213: -2007807776205872842
+    second: Boxe_258
+  - first:
+      213: 5617510442992355928
+    second: Boxe_259
+  - first:
+      213: -1483177889089082514
+    second: Boxe_260
+  - first:
+      213: 238268116031750260
+    second: Boxe_261
+  - first:
+      213: -8902319125177087890
+    second: Boxe_262
+  - first:
+      213: -4931226156336838881
+    second: Boxe_263
+  - first:
+      213: 7896994470313132203
+    second: Boxe_264
+  - first:
+      213: 2003797685028581915
+    second: Boxe_265
+  - first:
+      213: -1023234769579151277
+    second: Boxe_266
+  - first:
+      213: -4188529327738341598
+    second: Boxe_267
+  - first:
+      213: 1972475128013500924
+    second: Boxe_268
+  - first:
+      213: -1847712392006487454
+    second: Boxe_269
+  - first:
+      213: -1880168877602885743
+    second: Boxe_270
+  - first:
+      213: 3477517317407042507
+    second: Boxe_271
+  - first:
+      213: -1960711098476253629
+    second: Boxe_272
+  - first:
+      213: 3857643482099301232
+    second: Boxe_273
+  - first:
+      213: 3114775786605976943
+    second: Boxe_274
+  - first:
+      213: -2450910709458339114
+    second: Boxe_275
+  - first:
+      213: -3872018201756837754
+    second: Boxe_276
+  - first:
+      213: 6164337892033057886
+    second: Boxe_277
+  - first:
+      213: 5353315094574712171
+    second: Boxe_278
+  - first:
+      213: -4084476219440557492
+    second: Boxe_279
+  - first:
+      213: -5866676901763123625
+    second: Boxe_280
+  - first:
+      213: -2356424825433528314
+    second: Boxe_281
+  - first:
+      213: -5287351973870735827
+    second: Boxe_282
+  - first:
+      213: 2740331315663292936
+    second: Boxe_283
+  - first:
+      213: -7202652241481773954
+    second: Boxe_284
+  - first:
+      213: -1446403284316722613
+    second: Boxe_285
+  - first:
+      213: -6628486916530961768
+    second: Boxe_286
+  - first:
+      213: 100073371549504124
+    second: Boxe_287
+  - first:
+      213: -1392301299622753916
+    second: Boxe_288
+  - first:
+      213: -7352653611190670485
+    second: Boxe_289
+  - first:
+      213: -7005149945851817112
+    second: Boxe_290
+  - first:
+      213: -6811255689527810118
+    second: Boxe_291
+  - first:
+      213: 1220001636289633756
+    second: Boxe_292
+  - first:
+      213: -6361127440461072337
+    second: Boxe_293
+  - first:
+      213: 5282956262755915424
+    second: Boxe_294
+  - first:
+      213: 514938770056601632
+    second: Boxe_295
+  - first:
+      213: -2605649449083897202
+    second: Boxe_296
+  - first:
+      213: -1320566970971810382
+    second: Boxe_297
+  - first:
+      213: -2709684832148555036
+    second: Boxe_298
+  - first:
+      213: -4230855447167467514
+    second: Boxe_299
+  - first:
+      213: -6265458170816576406
+    second: Boxe_300
+  - first:
+      213: -8435110806711745510
+    second: Boxe_301
+  - first:
+      213: -8990089191909213873
+    second: Boxe_302
+  - first:
+      213: 1815698034606206640
+    second: Boxe_303
+  - first:
+      213: -2323848340154898684
+    second: Boxe_304
+  - first:
+      213: -2905155443754080741
+    second: Boxe_305
+  - first:
+      213: -83323424593857273
+    second: Boxe_306
+  - first:
+      213: 6924554637770667338
+    second: Boxe_307
+  - first:
+      213: 6748309331250438366
+    second: Boxe_308
+  - first:
+      213: 3447550711056122761
+    second: Boxe_309
+  - first:
+      213: 8552661413786816432
+    second: Boxe_310
+  - first:
+      213: -7235076881821857127
+    second: Boxe_311
+  - first:
+      213: 390077015476981329
+    second: Boxe_312
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boxe_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 578
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b5f86011ba3a90800000000000000
+      internalID: -7333354359180905347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 578
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46dfa5cb33af1e0800000000000000
+      internalID: -2163359786924677982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 578
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886bbd6ba74480d0800000000000000
+      internalID: -3421531015288756094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 628
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57822acfa43ac23d0800000000000000
+      internalID: -3230027290270095243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 578
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c248786cc26ca00800000000000000
+      internalID: 776357216956722209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 620
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919446476838bbc0800000000000000
+      internalID: -3767199072083734113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 613
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bd2352bcbdfd3f0800000000000000
+      internalID: -873738137137652919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 578
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb5c1db1e7fb820800000000000000
+      internalID: 2936204140017466486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 616
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352a9b9d0e120d8d0800000000000000
+      internalID: -2823719716752088493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 630
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ccab19b6082290800000000000000
+      internalID: -7915068953000622685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 630
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dabbbca346c2d90800000000000000
+      internalID: -7121206707090641579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 630
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3757c09dc6c170370800000000000000
+      internalID: 8288624893022205299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 630
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0058a7c8595f420800000000000000
+      internalID: 2663199185243013307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 628
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1475a37a1c49e0800000000000000
+      internalID: -1635903480642921193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 609
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f47dc55500b4bfb0800000000000000
+      internalID: -4632884579696544528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 613
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb5e84a7cf9c1a0800000000000000
+      internalID: -6788617361145086886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 618
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea62b064a882c50800000000000000
+      internalID: 6640709683997224611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 624
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14de757d3ff42ce70800000000000000
+      internalID: 9133950902969298241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 617
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4206f16cebe9ec0800000000000000
+      internalID: -3558196897436916485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 617
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986e2e11c8496f80800000000000000
+      internalID: -8112873259458991969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 618
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8978784869b1f80800000000000000
+      internalID: -8134742805961008981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 618
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87faa4a3eed48260800000000000000
+      internalID: 7099043981944354698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 607
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3c3825d0ec4250800000000000000
+      internalID: 5930362015447792627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 614
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fc6aca38def010800000000000000
+      internalID: 1224653895707194891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159cc7ba4a76bb450800000000000000
+      internalID: 6105587676780218705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_25
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 618
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84f3819e971b7f0800000000000000
+      internalID: -598563233422423857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1997536f463740800000000000000
+      internalID: 5131376113525268396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 618
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e094c3ba3c74d0800000000000000
+      internalID: -3135566696785321302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a50d0f4693aec0800000000000000
+      internalID: -3556834014427503091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304e0eb762741ca0800000000000000
+      internalID: -6047082609755930565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a506c20b2500c0800000000000000
+      internalID: -4610231352631648181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 616
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2977b3bb94574ff50800000000000000
+      internalID: 6914280287454853010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8f85a96eeceb70800000000000000
+      internalID: 8929774298685476244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 618
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8199cccb7feda72c0800000000000000
+      internalID: -4432985727587018472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 618
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e21db7e6ceb6de0800000000000000
+      internalID: -1338716504944726427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906482706bf2c1d10800000000000000
+      internalID: 2097603985298441737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca8976d5ff41300800000000000000
+      internalID: 222083058283097335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44472c0fb1e5a7770800000000000000
+      internalID: 8609297111768527940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f0fe43b0d92420800000000000000
+      internalID: 2605843327952680855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 618
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb54a99cf4c2edf0800000000000000
+      internalID: -152342848188687410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 616
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0c94e6300e40590800000000000000
+      internalID: -7708790356811595590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 618
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f382e10b2f56ff920800000000000000
+      internalID: 3026249567627520063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 600
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213a2ec68dc42790800000000000000
+      internalID: -7555688295952666329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 601
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221dc5c224d88790800000000000000
+      internalID: -7527533531337256411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 604
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416f0709314a4420800000000000000
+      internalID: 2614974246829384015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 600
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed31b78cd73c2d60800000000000000
+      internalID: 7866724069418286571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 606
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c73db814f9d178c0800000000000000
+      internalID: -4003178951345358906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 604
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3958cde1f7c2f6b0800000000000000
+      internalID: -5263925172552312515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 578
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918051d319797f60800000000000000
+      internalID: 8032584536415043992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 606
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e316dddecdbc380800000000000000
+      internalID: -8949816920289231336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d18b78a3ce71cf60800000000000000
+      internalID: 8052856987525546450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 606
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42347cd2a579731d0800000000000000
+      internalID: -3371059382492642524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_52
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 606
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f7e164cec825d0800000000000000
+      internalID: -3086990201710970729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_53
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 606
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207f46e741915280800000000000000
+      internalID: -9056297637672685527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_54
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 606
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72a15c8bd1922120800000000000000
+      internalID: 2387631124597809791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_55
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 606
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3780e9cebde843a90800000000000000
+      internalID: -7335080817860933517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_56
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3012d42f5751cd9a0800000000000000
+      internalID: -6207062590102888189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6f9156ae6cd6290800000000000000
+      internalID: -7895435861689764176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 595
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85632ecd0ebb6bb0800000000000000
+      internalID: -4941647199606708853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 584
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555768def0f74e80800000000000000
+      internalID: -8194316019634317992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_60
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 596
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c57d0648e63140800000000000000
+      internalID: 4699198648778867194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_61
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 599
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bba26cb8902ce70800000000000000
+      internalID: 9133873490190580579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_62
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 579
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c975bedaab89a0800000000000000
+      internalID: -6229697786032830884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 580
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812107eb955557e0800000000000000
+      internalID: -1777420349843889784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 578
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff333eda55d0f89c0800000000000000
+      internalID: -3922902088775683073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_65
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 584
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c37bb6accccba30800000000000000
+      internalID: 4232482919584054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 578
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e486a10331f740a50800000000000000
+      internalID: 6486449083708500046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 546
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c612c4de393a5d0800000000000000
+      internalID: -3052433475033273237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 546
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6d641f268914a0800000000000000
+      internalID: -6622114240307302537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 546
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293cce0d43ea23820800000000000000
+      internalID: 2896569052219360146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe15d0c5f3876ad0800000000000000
+      internalID: -2709051559314645261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 546
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4af838a4f307e50800000000000000
+      internalID: 6805008626224178359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 546
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6409fbe0b812fa0800000000000000
+      internalID: -5827223547381004550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 546
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90657c8999962c80800000000000000
+      internalID: -8347815974519086947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 566
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ab75c76c6c4fb0800000000000000
+      internalID: -4662232321284660365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 566
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43a5b100abb71d0800000000000000
+      internalID: -3351880988025539392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 566
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93942652a27fd46b0800000000000000
+      internalID: -5310316625212061383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 566
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349edbf072884d040800000000000000
+      internalID: 4671508414839253315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_78
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 566
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f46af39c4a5be0800000000000000
+      internalID: -1487792528447704207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_79
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 566
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d944ae09b6c71a20800000000000000
+      internalID: 3033111372174215637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_80
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 566
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004b3e4dcf81f65c0800000000000000
+      internalID: -4220126851640347648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 566
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc4deec43ec9800800000000000000
+      internalID: 620620768234229081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 566
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9a1280c704bfda0800000000000000
+      internalID: -5910059184537097729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 514
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ad8b32e8ee3e40800000000000000
+      internalID: 5638199841873830759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 514
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb03e0b7c48641850800000000000000
+      internalID: 6346812452563202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 514
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b618183602c640800000000000000
+      internalID: 5098644566128900118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 514
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84401e30d3db38dd0800000000000000
+      internalID: -2484934499622648760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_87
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 533
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbbe3aeeb6c454d0800000000000000
+      internalID: -3146671716349068325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5fcfa620df5520800000000000000
+      internalID: 2693099966767783861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 533
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea14f00b4095430800000000000000
+      internalID: 3772051317116219111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094a5e43397287c0800000000000000
+      internalID: -4070557851924674296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_91
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 533
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b480e93cc10a96f0800000000000000
+      internalID: -677226817309866832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d959034284cf3420800000000000000
+      internalID: 2612022372647655889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58178f9f8c8fb5150800000000000000
+      internalID: 5862552882023788933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 533
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce32570b6eec9f20800000000000000
+      internalID: 3430879159601217220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_95
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 533
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071fe8e7c84b8ebd0800000000000000
+      internalID: -2600630269294743184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_96
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede54815a38a3e70800000000000000
+      internalID: 9095727142528216558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f83ac24284b60340800000000000000
+      internalID: 4829746121960732912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 482
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93c4c386ad99f30800000000000000
+      internalID: 4582934237049272741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 482
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab53c9eb88c60a310800000000000000
+      internalID: 1414249617563596218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 482
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4344a047c2ddd650800000000000000
+      internalID: 6259390810339689293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac83f13e1cc1320800000000000000
+      internalID: 2530110271900928654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_102
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 482
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91defd7149bcfe0800000000000000
+      internalID: -1167676848110495240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 503
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3d310d52d11710800000000000000
+      internalID: 1662341034371005466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_104
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 501
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a3d8e5174a04b0800000000000000
+      internalID: -5473484237689345567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 503
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e44a471de0657980800000000000000
+      internalID: -8541814546824018712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_106
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 501
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aaca10e83eb9da0800000000000000
+      internalID: -5936901484704912812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 503
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356fde07bde61b5d0800000000000000
+      internalID: -3048533583981578669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 503
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcee022a13dae720800000000000000
+      internalID: 2876343421223496891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_109
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 503
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2cba2c55a6c240800000000000000
+      internalID: 4811715067164502648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_110
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 503
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffdcbbf7c481bfb0800000000000000
+      internalID: -4633776547130712073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 448
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de3a73df48c27b0800000000000000
+      internalID: -5247673242698388141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7314226db8c610800000000000000
+      internalID: 1641770293386246939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde86219a395fb670800000000000000
+      internalID: 8556655925105430239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 470
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8d1725a58db650800000000000000
+      internalID: 6250298802232462509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_115
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 470
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39bad14e5d0de430800000000000000
+      internalID: 3813719157935618364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 470
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299d96339b445c60800000000000000
+      internalID: 7805947149788485926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_117
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 470
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14929b7950c934310800000000000000
+      internalID: 1388124657994508609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_118
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 470
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f1ee5ed8be7a60800000000000000
+      internalID: 7673774080300021562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_119
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 468
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11217ac5ce23673c0800000000000000
+      internalID: -4362243198313623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_120
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 470
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93d2a88e7e2c700800000000000000
+      internalID: 559264289684011497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_121
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 470
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e208d2041e48a0800000000000000
+      internalID: -6319091224707669441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_122
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 470
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e755f2fb355cf90800000000000000
+      internalID: -6934043970669019524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_123
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 470
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e235434310db6c110800000000000000
+      internalID: 1280918956901946158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 414
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613303408e1784080800000000000000
+      internalID: -9202980597214989546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 414
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629a8039cdf6a3e0800000000000000
+      internalID: -2042666340421299607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 414
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffe2c59119713900800000000000000
+      internalID: 662443736634159090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_127
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 414
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685f6ab89bc10e00800000000000000
+      internalID: 1009311648331028582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_128
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 414
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1667d1387ebab2520800000000000000
+      internalID: 2678423414227433057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_129
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 414
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb05444264b89790800000000000000
+      internalID: -7523064843377243215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_130
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f82c1d896f16250800000000000000
+      internalID: 5936296920065675025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_131
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 435
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e884254d5385c5b0800000000000000
+      internalID: -5348724545817376542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_132
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 435
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d1a7b3f163ffd0800000000000000
+      internalID: -2309394484525148857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_133
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258935bcaaae17b50800000000000000
+      internalID: 6589305749096339538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_134
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 435
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1980e85c013ba83d0800000000000000
+      internalID: -3203551300305418095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_135
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc11b2964834cb00800000000000000
+      internalID: 847864505612442871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_136
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 435
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71506f63015f1efd0800000000000000
+      internalID: -2314299283501349609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_137
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 435
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c5d6d0c557b97f0800000000000000
+      internalID: -604760686728487846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 435
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea45194e316d8830800000000000000
+      internalID: 4075020157982165729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_139
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 382
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6c5957694b0ee0800000000000000
+      internalID: -1293859759709196970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a274c58161ceae0800000000000000
+      internalID: -1518814680447505777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 382
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd1f1a35cfac770800000000000000
+      internalID: 8631989071938444455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_142
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 382
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154755ffa407ef570800000000000000
+      internalID: 8502356613935756369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_143
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 382
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c046d9c9d6eeecd70800000000000000
+      internalID: 9065445254489793548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_144
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 382
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5806ce0a437e220800000000000000
+      internalID: 2515036782674871733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_145
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 382
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722bf896ca356100800000000000000
+      internalID: 100551191330234992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_146
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 382
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da768eb8f70c89b0800000000000000
+      internalID: -5076673915023623469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 382
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19684e70425d63a10800000000000000
+      internalID: 1888931444456457873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_148
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 382
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37dd4c8f26500b0800000000000000
+      internalID: -5763091327556422663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_149
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 382
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39927c5fa33cedf0800000000000000
+      internalID: -149687859346761409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_150
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 382
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c39fd4098e6386e0800000000000000
+      internalID: -1836502688265694269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_151
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 382
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8024660b1a9ffec0800000000000000
+      internalID: -3530934141973159793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_152
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 382
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41300f17fcb2b44a0800000000000000
+      internalID: -6608139858266291436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_153
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff8ae28f6c4fd80800000000000000
+      internalID: -8217724650807296205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_154
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 396
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a554cfe9b60e00800000000000000
+      internalID: 1010699605833525753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_155
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 396
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d809c50fbf6c6b0800000000000000
+      internalID: -5276252903654257259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_156
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 396
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6bc31e1f7c757f0800000000000000
+      internalID: -623810181687626005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_157
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 396
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771193fbb4c23ce0800000000000000
+      internalID: -1426861820398725256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_158
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 394
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b50a15cb8d6d50800000000000000
+      internalID: 6732190696650160190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_159
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 396
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52383ebbba5d23d0800000000000000
+      internalID: -3229825595358039461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_160
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 396
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271c3cd798e0d050800000000000000
+      internalID: 5823410057122682671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_161
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 396
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe40c9f14029cc7b0800000000000000
+      internalID: -5202622923111922449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_162
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 382
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7e748ea7e100d0800000000000000
+      internalID: -3458228302110622854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c090f817ff49fcbd0800000000000000
+      internalID: -2607701834381457140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 350
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd78be4834383a0800000000000000
+      internalID: -6664408785411907743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_165
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 350
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ead4db7b9c0dcf0800000000000000
+      internalID: -229461790003712426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_166
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 350
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9684e5e0499f9f20800000000000000
+      internalID: 3431629945093523101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_167
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774db17b96e18bb30800000000000000
+      internalID: 4303222883344962679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525f6f87fd61d5e0800000000000000
+      internalID: -1886605858860740014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_169
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28c94cd11d5f8e0800000000000000
+      internalID: -1660190961833311556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_170
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 319
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a8b5efb8403fc0800000000000000
+      internalID: -3517231319946321276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_171
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 303
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17aa2c4a50ed2d00800000000000000
+      internalID: 949661774874584859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_172
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 328
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea165f30cfba3960800000000000000
+      internalID: 7582583755048884969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_173
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 334
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04504fa4ec50cdee0800000000000000
+      internalID: -1235105814227450560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_174
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 323
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052b5f28bce1aa70800000000000000
+      internalID: 8836604219690263820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_175
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 334
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1648d92de333fd0800000000000000
+      internalID: -2363476305132625464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_176
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 323
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8880130fb4178f0800000000000000
+      internalID: -544570584948242249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_177
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 330
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7476a793140b160800000000000000
+      internalID: 7039197932702615540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 314
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b799025f9304b60800000000000000
+      internalID: 7728240685544471443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_179
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 323
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e768a545e2b2c0800000000000000
+      internalID: -4417216197156151242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_180
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 282
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2842cddae719f20800000000000000
+      internalID: 3427660076593480404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_181
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 327
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d4e30be2841db0800000000000000
+      internalID: -4822085355112705662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_182
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 282
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501227daf1cbd370800000000000000
+      internalID: 8348479617356664922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_183
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 324
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558ba67578e9dd680800000000000000
+      internalID: -8728646198649767851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_184
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 320
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8626d7a7d9eaa9210800000000000000
+      internalID: 1340575830484279912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_185
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 327
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8ee5ac52c6c8d0800000000000000
+      internalID: -2826358012951753329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_186
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 327
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aab4c855bb28a60800000000000000
+      internalID: 7674902691093129739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_187
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 327
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c09228dd85f4770800000000000000
+      internalID: 8597187922068311043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_188
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 327
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323b43930bd5caf30800000000000000
+      internalID: 4588145131839075107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_189
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 325
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45022202f95bb8ff0800000000000000
+      internalID: -32732877231611820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_190
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 282
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fe9a1be97975e40800000000000000
+      internalID: 5645147365773537060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_191
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 282
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ec3293293ce7d0800000000000000
+      internalID: -2887870436111227109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_192
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 310
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd27551c5dd3300800000000000000
+      internalID: 233577782032128818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_193
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 310
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8325265ffce10fd0800000000000000
+      internalID: -2377358546868821109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_194
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9959a0cf4acd2810800000000000000
+      internalID: 1742271074745801115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_195
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 283
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13c5dc3ec46fc10800000000000000
+      internalID: 2086940018619462110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_196
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 297
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40fb04eb69e30100800000000000000
+      internalID: 73158668564820045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_197
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 282
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ce4454c5cfb570800000000000000
+      internalID: 8484717670008013926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_198
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812f6af344d282e0800000000000000
+      internalID: -2124902685735968379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_199
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 283
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b960b1e507c470dd0800000000000000
+      internalID: -2519961420991625573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_200
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 297
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68367c6955ed260800000000000000
+      internalID: 7124225766625347251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_201
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 296
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d16f44a880183c0800000000000000
+      internalID: -4359193574362440350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_202
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 282
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2774b49cd9a05490800000000000000
+      internalID: -7759515393106610390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_203
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 305
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e623bce2086cf80800000000000000
+      internalID: -8086635142431216025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_204
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 291
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbab03adb7aadf20800000000000000
+      internalID: 3448252897631644671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_205
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 283
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c16cf01f1e846590800000000000000
+      internalID: -7681858800307117629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_206
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d1e08e84a20ca0800000000000000
+      internalID: -6052094017277930626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_207
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 270
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2f6f1dba7346de0800000000000000
+      internalID: -1340885577948007773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_208
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 270
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d40a1416aa7510800000000000000
+      internalID: 1547732027221267536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_209
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 270
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345ad7ab0116d400800000000000000
+      internalID: 348484762926208059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_210
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 220
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e8083d831c2520800000000000000
+      internalID: 2678537375630025291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_211
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 204
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450ada3bb00493d0800000000000000
+      internalID: -3200932631007328955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_212
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 229
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7694e5a6452533d40800000000000000
+      internalID: 5562880487247989095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_213
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 235
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c50a1374b88ded0800000000000000
+      internalID: -2389006464428516312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_214
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 224
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7829a15483d53650800000000000000
+      internalID: 6212103826286651517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_215
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 235
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0156503a0109b70800000000000000
+      internalID: 8903634755667693768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_216
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c76da42f65ff30800000000000000
+      internalID: 4608711997002335218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_217
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 231
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d763651aac520850800000000000000
+      internalID: 6341733110864111577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_218
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 215
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d67640405440360800000000000000
+      internalID: 7134903593217781043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_219
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 224
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2dafdf302482450800000000000000
+      internalID: 6064169483167781626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_220
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 229
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6148a49d15e469530800000000000000
+      internalID: 3861359843961635862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_221
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 183
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd54de610de968a90800000000000000
+      internalID: -7311982328414386721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_222
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 229
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a9153cd92befd0800000000000000
+      internalID: -2311707957964199761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_223
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041326c80071f400800000000000000
+      internalID: 356189028525216775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_224
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 229
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4d35680cc4b9f0800000000000000
+      internalID: -453513326027256957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_225
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 229
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a2a1f2dc1e3450800000000000000
+      internalID: 6070321040064684113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_226
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 229
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d05e399b1efe60800000000000000
+      internalID: 7997860333246009997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_227
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 227
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bae323383f86d40800000000000000
+      internalID: 5577975883307592469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_228
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 183
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d154b9fa031813c0800000000000000
+      internalID: -4388736899012603435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_229
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 211
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d3c33589c192870800000000000000
+      internalID: 8658483199153552735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_230
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 221
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca23e8325cb5b9b0800000000000000
+      internalID: -5064935144580502837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_231
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 183
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d417aa7d679530800000000000000
+      internalID: 3861675579050087681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_232
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 183
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71447416d851750800000000000000
+      internalID: 6275077104757643236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_233
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9b45870670e0d0800000000000000
+      internalID: -3395584344364179511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_234
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ee740179153cc0800000000000000
+      internalID: -3732048743009164451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_235
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 184
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8acc9e259de030800000000000000
+      internalID: 3525638110732520336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_236
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 198
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f289b6abee1b820800000000000000
+      internalID: 2932387316831366963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_237
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 183
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa896864a278c90800000000000000
+      internalID: -7167713799542625761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_238
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 197
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d603b6867eb821860800000000000000
+      internalID: 7499210155530858605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_239
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 184
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ddf78764c828030800000000000000
+      internalID: 3495510495090171281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_240
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 198
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d42f651e2630e30800000000000000
+      internalID: 4468523975247547798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_241
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 197
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa6540f7e3ba460800000000000000
+      internalID: 7253960340064873077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_242
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 183
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4bcb2e48a1f2e20800000000000000
+      internalID: 3327907807692109052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_243
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 206
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3ad8b8f70a5bb90800000000000000
+      internalID: -7226693557383486496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_244
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 192
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c56a93fd27a2c0800000000000000
+      internalID: -4420513984950188771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_245
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 184
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626461f4b30df090800000000000000
+      internalID: -7999233287461248402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_246
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3423ff68c9c4114b0800000000000000
+      internalID: -5471507837114961341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_247
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 151
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68550983e14524510800000000000000
+      internalID: 1531879312034125190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_248
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 170
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eb4e8129134a660800000000000000
+      internalID: 7396090991601827461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_249
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516a1eeba5552550800000000000000
+      internalID: 6135404264284643664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_250
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91457f95d4dc80e0800000000000000
+      internalID: -2266202498505817699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_251
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56372899ff06f6c0800000000000000
+      internalID: -4110080045255018914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_252
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2245f5c6fad97a350800000000000000
+      internalID: 6027960003021722658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_253
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1ee9569476d860800000000000000
+      internalID: 7554353614063279375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_254
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3054d1c5748251650800000000000000
+      internalID: 6202908348725937411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_255
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 122
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c02eb2543cdd20800000000000000
+      internalID: 3304573756564882034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_256
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 124
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a21c40d2bd66ac80800000000000000
+      internalID: -8311835447499418969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_257
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a771c6c7eaad90800000000000000
+      internalID: -7085596222878670351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_258
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6316bf12775d224e0800000000000000
+      internalID: -2007807776205872842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_259
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 26
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4b9c2cf765fd40800000000000000
+      internalID: 5617510442992355928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_260
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 169
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ba12e6191ba6be0800000000000000
+      internalID: -1483177889089082514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_261
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470cf51d69f7e4300800000000000000
+      internalID: 238268116031750260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_262
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 127
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6847a21ceb947480800000000000000
+      internalID: -8902319125177087890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_263
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f178d6400f3c09bb0800000000000000
+      internalID: -4931226156336838881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_264
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 93
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba00d3471a2c79d60800000000000000
+      internalID: 7896994470313132203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_265
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 93
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f0e1c06beecb10800000000000000
+      internalID: 2003797685028581915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_266
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 93
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350f76df56dbcc1f0800000000000000
+      internalID: -1023234769579151277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_267
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b9d8a4ca5fd5c0800000000000000
+      internalID: -4188529327738341598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_268
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 93
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b985ada3af5b10800000000000000
+      internalID: 1972475128013500924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_269
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 93
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262bd5b7e5b9b56e0800000000000000
+      internalID: -1847712392006487454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_270
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 92
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f2cbc0e5c48e5e0800000000000000
+      internalID: -1880168877602885743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_271
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 112
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbe054539f924030800000000000000
+      internalID: 3477517317407042507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_272
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 112
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e282ce4a72ac4e0800000000000000
+      internalID: -1960711098476253629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_273
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b31acee4a198530800000000000000
+      internalID: 3857643482099301232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_274
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 112
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d13ab3318e93b20800000000000000
+      internalID: 3114775786605976943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_275
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 112
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf88af1bd9cfdd0800000000000000
+      internalID: -2450910709458339114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_276
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 112
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688df68d5f3d34ac0800000000000000
+      internalID: -3872018201756837754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_277
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 112
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e545c1a17a02c8550800000000000000
+      internalID: 6164337892033057886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_278
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 112
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65ccd627bbca4a40800000000000000
+      internalID: 5353315094574712171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_279
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 63
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4217b6d4860157c0800000000000000
+      internalID: -4084476219440557492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_280
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567b6ad070659ea0800000000000000
+      internalID: -5866676901763123625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_281
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 69
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086f1c2b1c4c4fd0800000000000000
+      internalID: -2356424825433528314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_282
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 75
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e69f2b46d8f96b0800000000000000
+      internalID: -5287351973870735827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_283
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4dfc00dc970620800000000000000
+      internalID: 2740331315663292936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_284
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 68
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ccec992f90b0c90800000000000000
+      internalID: -7202652241481773954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae75450e75debe0800000000000000
+      internalID: -1446403284316722613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_286
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89209d5c442e204a0800000000000000
+      internalID: -6628486916530961768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_287
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c721fa28338836100800000000000000
+      internalID: 100073371549504124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_288
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 33
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489cbaf385d8dace0800000000000000
+      internalID: -1392301299622753916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_289
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bac742f7026f990800000000000000
+      internalID: -7352653611190670485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_290
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d7273d35b8ce90800000000000000
+      internalID: -7005149945851817112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_291
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab72657b90f8971a0800000000000000
+      internalID: -6811255689527810118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_292
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd507c36015ee010800000000000000
+      internalID: 1220001636289633756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_293
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 33
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28f35cab4cb8b7a0800000000000000
+      internalID: -6361127440461072337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_294
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 33
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6dd7d0bb4d05940800000000000000
+      internalID: 5282956262755915424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_295
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020ec46451e652700800000000000000
+      internalID: 514938770056601632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_296
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 52
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a7922a1afd6dbd0800000000000000
+      internalID: -2605649449083897202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_297
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59c1926576cade0800000000000000
+      internalID: -1320566970971810382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_298
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 52
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea758e6004456ad0800000000000000
+      internalID: -2709684832148555036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_299
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008e87036bf845c0800000000000000
+      internalID: -4230855447167467514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_300
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c86d4dfe9c09a0800000000000000
+      internalID: -6265458170816576406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_301
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1443e4996770fa80800000000000000
+      internalID: -8435110806711745510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_302
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 52
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f493c21f289cc3380800000000000000
+      internalID: -8990089191909213873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_303
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bee3141eb7a23910800000000000000
+      internalID: 1815698034606206640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_304
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407af253f3800cfd0800000000000000
+      internalID: -2323848340154898684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_305
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16eebd1480dea7d0800000000000000
+      internalID: -2905155443754080741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_306
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7053d9b69c9f7def0800000000000000
+      internalID: -83323424593857273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_307
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ba1451c5f81060800000000000000
+      internalID: 6924554637770667338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_308
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e2ab259fc6ad50800000000000000
+      internalID: 6748309331250438366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_309
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98345a51b1928df20800000000000000
+      internalID: 3447550711056122761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_310
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf04fced3821b670800000000000000
+      internalID: 8552661413786816432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_311
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a0e58b8e7d79b90800000000000000
+      internalID: -7235076881821857127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxe_312
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ecc869af4d96500800000000000000
+      internalID: 390077015476981329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

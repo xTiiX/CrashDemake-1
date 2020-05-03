@@ -2,33 +2,43 @@
 
 public class CameraController : MonoBehaviour
 {
-    public static CameraController instance;
-
-	public Transform target;
-
+    public GameObject target;
+    
     private float positionY;
+    private float oldPosY;
 
-    private void Awake()
-    {
-        instance = this;
-    }
+
+	public Transform farBackground, middleBackground;
+	
+	private float lastXPos;
+    
 
     void Start()
     {
-        
+        lastXPos = transform.position.x;
+        oldPosY = transform.position.y;
     }
 
     void Update()
     {
-        print(PlayerController.instance.isJumped);
-        if (PlayerController.instance.isJumped)
+
+        //print(target.GetComponent<PlayerController>().isJumped);
+        if (target.GetComponent<PlayerController>().isJumped)
         {
-            positionY = target.position.y;
+            positionY = target.transform.position.y;
         } else
         {
-            positionY = transform.position.y;
+            positionY = oldPosY;
         }
 
-       transform.position = new Vector3(target.position.x, positionY, transform.position.z); 
+       transform.position = new Vector3(target.transform.position.x, transform.position.y, transform.position.z); 
+	   
+	   float amountToMoveX = transform.position.x - lastXPos;
+	   
+	   farBackground.position = farBackground.position + new Vector3(amountToMoveX, 0f, 0f);
+	   middleBackground.position += new Vector3(amountToMoveX * .5f, 0f, 0f);
+	   
+	   lastXPos = transform.position.x;
+
     }
 }

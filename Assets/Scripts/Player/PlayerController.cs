@@ -7,7 +7,8 @@ public class PlayerController : MonoBehaviour
 	public float moveSpeed;
 	public Rigidbody2D theRB;
 	public float jumpForce;
-		
+
+	public bool isJumped;
 	public bool isGrounded;
 	public Transform groundCheckPoint;
 	public LayerMask whatIsGround;
@@ -20,7 +21,6 @@ public class PlayerController : MonoBehaviour
 
 	private float horizontal;
 
-	public bool isJumped = false;
 	
 	public void Awake()
 	{
@@ -43,28 +43,34 @@ public class PlayerController : MonoBehaviour
 			
 			isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, .2f, whatIsGround);
 			
-			if(Input.GetButtonDown("Jump"))
+			if (Input.GetButtonDown("Jump"))
 			{
 				if (isGrounded)
 				{
 					isJumped = true;
 					theRB.velocity = new Vector2(theRB.velocity.x, jumpForce);
 				}
+
 			}
 
+			//isJumped = false;
+
+			if (Input.GetButtonDown("Fire1"))
+            {
+                crashAttack();
+            }
 			
-			if(theRB.velocity.x < 0)
+			if (theRB.velocity.x < 0)
 			{
 				theSR.flipX = true;
 			} else if(theRB.velocity.x > 0)
 			{
 				theSR.flipX = false;
 			}
-		
 		} else
 		{
 			knockBackCounter -= Time.deltaTime;
-			if(!theSR.flipX)
+			if (!theSR.flipX)
 			{
 				theRB.velocity = new Vector2(-knockBackForce, theRB.velocity.y);
 			} else
@@ -73,13 +79,12 @@ public class PlayerController : MonoBehaviour
 			}
 		}
 
-		isJumped = false;
 
 		anim.SetFloat("moveSpeed", Mathf.Abs(theRB.velocity.x));
 		anim.SetBool("isGrounded", isGrounded);
     }
-	
-	public void knockBack()
+
+    public void knockBack()
 	{
 		knockBackCounter = knockBackLength;
 		theRB.velocity = new Vector2(0f, knockBackForce);
@@ -88,5 +93,13 @@ public class PlayerController : MonoBehaviour
     public void boxJumped()
     {
 		theRB.velocity = new Vector2(theRB.velocity.x, jumpForce * 1.5f);
+    }
+
+    public void crashAttack()
+    {
+        if (true)
+        {
+            
+        }
     }
 }
