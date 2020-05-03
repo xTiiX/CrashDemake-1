@@ -21,20 +21,20 @@ public class AkuAkuController : MonoBehaviour
 
     private void Start()
     {
-        gameObject.transform.localScale = new Vector3(0.9f, 0.9f, 0);
+        gameObject.transform.localScale = new Vector3(0.8f, 0.8f, 0);
     }
 
     private void FixedUpdate()
     {
         if (lives == 3)
         {
-            gameObject.transform.localScale = new Vector3(0.9f, 0.9f, 0);
+            gameObject.transform.localScale = new Vector3(0.8f, 0.8f, 0);
         } else if (lives == 2)
         {
-            gameObject.transform.localScale = new Vector3(0.7f, 0.7f, 0);
+            gameObject.transform.localScale = new Vector3(0.6f, 0.6f, 0);
         } else if (lives == 1)
         {
-            gameObject.transform.localScale = new Vector3(0.5f, 0.5f, 0);
+            gameObject.transform.localScale = new Vector3(0.4f, 0.4f, 0);
         }
     }
 
