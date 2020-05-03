@@ -64,9 +64,11 @@ public class PlayerHealthController : MonoBehaviour
 			
 			UIController.instance.UpdateHealthDisplay();
 		}
+
         if (AkuAku.gameObject.activeInHierarchy)
         {
             isAttack = true;
+			PlayerController.instance.knockBack();
         }
 	}
 

@@ -78,4 +78,9 @@ public class PlayerController : MonoBehaviour
 		knockBackCounter = knockBackLength;
 		theRB.velocity = new Vector2(0f, knockBackForce);
 	}
+
+    public void boxJumped()
+    {
+		theRB.velocity = new Vector2(theRB.velocity.x, jumpForce * 1.5f);
+    }
 }

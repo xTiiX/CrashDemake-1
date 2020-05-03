@@ -2,6 +2,8 @@
 
 public class AkuAkuController : MonoBehaviour
 {
+    public static AkuAkuController instance;
+
     public GameObject target;
 
     public float smoothSpeed = 15f;
@@ -11,6 +13,30 @@ public class AkuAkuController : MonoBehaviour
     private int right = -2;
 
     public int lives = 3;
+
+    private void Awake()
+    {
+        instance = this;    
+    }
+
+    private void Start()
+    {
+        gameObject.transform.localScale = new Vector3(0.9f, 0.9f, 0);
+    }
+
+    private void FixedUpdate()
+    {
+        if (lives == 3)
+        {
+            gameObject.transform.localScale = new Vector3(0.9f, 0.9f, 0);
+        } else if (lives == 2)
+        {
+            gameObject.transform.localScale = new Vector3(0.7f, 0.7f, 0);
+        } else if (lives == 1)
+        {
+            gameObject.transform.localScale = new Vector3(0.5f, 0.5f, 0);
+        }
+    }
 
     private void LateUpdate()
     {
@@ -73,5 +99,20 @@ public class AkuAkuController : MonoBehaviour
 
         }
 
+    }
+
+    public void NewAkuAku()
+    {
+        if (lives == 0)
+        {
+            lives = 3;
+            gameObject.SetActive(true);
+        } else if (lives == 1)
+        {
+            lives += 2;
+        } else if(lives == 2)
+        {
+            lives++;
+        }
     }
 }
