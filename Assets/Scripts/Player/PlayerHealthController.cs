@@ -14,7 +14,7 @@ public class PlayerHealthController : MonoBehaviour
 	private SpriteRenderer theSR;
 
     public GameObject AkuAku;
-    public bool isAttack = false;
+    public bool isAttacked = false;
 	
 	private void Awake()
 	{
@@ -69,7 +69,7 @@ public class PlayerHealthController : MonoBehaviour
 
         if (AkuAku.gameObject.activeInHierarchy)
         {
-            isAttack = true;
+            isAttacked = true;
 			PlayerController.instance.knockBack();
         }
 	}
