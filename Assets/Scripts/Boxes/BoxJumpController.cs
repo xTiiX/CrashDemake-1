@@ -32,10 +32,7 @@ public class BoxJumpController : MonoBehaviour
             if (normal.y < 0)
             {
                 PlayerController.instance.boxJumped();
-                print(playerVelocity);
                 playerVelocity = new Vector2(playerVelocity.x, playerVelocity.y + 3);
-                print(playerVelocity);
-                print(player);
             }
         }
     }
