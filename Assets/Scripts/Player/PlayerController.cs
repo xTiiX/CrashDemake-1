@@ -80,6 +80,7 @@ public class PlayerController : MonoBehaviour
 		
 		anim.SetFloat("moveSpeed", Mathf.Abs(theRB.velocity.x));
 		anim.SetBool("isGrounded", isGrounded);
+        anim.SetBool("isAttacking", isAttacking);
     }
 	
 	public void knockBack()
