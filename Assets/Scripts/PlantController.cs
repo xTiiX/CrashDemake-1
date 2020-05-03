@@ -2,18 +2,33 @@
 
 public class PlantController : MonoBehaviour
 {
-    public int lives = 1;
-    public GameObject crash;
+    public static PlantController instance;
+    public GameObject wumpa;
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void Awake()
     {
-        if (other.tag == "Player")
+        instance = this;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        EnemyCollide(collision);
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        EnemyCollide(collision);
+    }
+
+    public void EnemyCollide(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
         {
-            if (crash.GetComponent<PlayerController>().isInAttack)
+            if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
             {
                 GameObject.Destroy(gameObject);
-            } 
-            else 
+            }
+            else
             {
                 PlayerHealthController.instance.DealDamage();
             }
