@@ -2347,7 +2347,7 @@ MonoBehaviour:
   theSR: {fileID: 0}
   knockBackLength: 0.25
   knockBackForce: 10
-  isAttacking: 0
+  isInAttack: 0
 --- !u!95 &1184332998
 Animator:
   serializedVersion: 3

@@ -5,11 +5,12 @@ public class BoxBasicController : MonoBehaviour
     public GameObject crash;
     public GameObject wumpa;
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (other.tag == "Player")
+        Debug.Log(collider.tag);
+        if (collider.tag == "Player")
         {
-            if (crash.GetComponent<PlayerController>().isAttacking)
+            if (crash.GetComponent<PlayerController>().isInAttack)
             {
                 wumpa.SetActive(true);
                 GameObject.Destroy(gameObject);

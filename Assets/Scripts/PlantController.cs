@@ -9,7 +9,7 @@ public class PlantController : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            if (crash.GetComponent<PlayerController>().isAttacking)
+            if (crash.GetComponent<PlayerController>().isInAttack)
             {
                 GameObject.Destroy(gameObject);
             } 
