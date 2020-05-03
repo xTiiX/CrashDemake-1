@@ -4,6 +4,7 @@ using System.Collections;
 public class BoxTNTController : MonoBehaviour
 {
     public static BoxTNTController instance;
+    private bool corout = false;
 
     private void Awake()
     {
@@ -34,6 +35,7 @@ public class BoxTNTController : MonoBehaviour
 
     IEnumerator explosion()
     {
-        yield return new WaitForSecondsRealtime(3f);
+        yield return new WaitForSeconds(3f);
+        corout = true;
     }
 }

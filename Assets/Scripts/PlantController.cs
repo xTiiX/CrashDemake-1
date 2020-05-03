@@ -2,31 +2,24 @@
 
 public class PlantController : MonoBehaviour
 {
-    public static PlantController instance;
-    public GameObject wumpa;
-
-    private void Awake()
-    {
-        instance = this;
-    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        EnemyCollide(collision);
+        BoxDestroy(collision);
     }
 
     private void OnCollisionStay2D(Collision2D collision)
     {
-        EnemyCollide(collision);
+        BoxDestroy(collision);
     }
 
-    public void EnemyCollide(Collision2D collision)
+    public void BoxDestroy(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
             if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
             {
-                GameObject.Destroy(gameObject);
+                Destroy(gameObject);
             }
             else
             {

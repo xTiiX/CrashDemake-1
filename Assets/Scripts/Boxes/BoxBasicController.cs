@@ -3,8 +3,6 @@
 public class BoxBasicController : MonoBehaviour
 {
     public static BoxBasicController instance;
-
-    public GameObject crash;
     public GameObject wumpa;
 
     private void Awake()
@@ -26,7 +24,7 @@ public class BoxBasicController : MonoBehaviour
     {
         if(collision.gameObject.CompareTag("Player"))
         {
-            if (crash.GetComponent<PlayerController>().isInAttack)
+            if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
             {
                 Destroy(gameObject);
                 wumpa.SetActive(true);

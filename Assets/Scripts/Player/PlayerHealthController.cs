@@ -59,7 +59,8 @@ public class PlayerHealthController : MonoBehaviour
 			}
 
 			UIController.instance.UpdateHealthDisplay();
-		}
+            GetComponent<PlayerController>().isInAttack = false;
+        }
 
 		if (AkuAku.gameObject.activeInHierarchy)
 		{
@@ -70,6 +71,25 @@ public class PlayerHealthController : MonoBehaviour
 			PlayerController.instance.knockBack();
 		}
 	}
+
+    public void explosionNITRO()
+    {
+        //currentHealth -= 1;
+        currentHealth--;
+
+        LevelManager.instance.RespawnPlayer();
+
+        if (currentHealth <= 0)
+        {
+            currentHealth = 0;
+            print("you are dead");
+
+            //gameObject.SetActive(false);
+        }
+
+        UIController.instance.UpdateHealthDisplay();
+        GetComponent<PlayerController>().isInAttack = false;
+    }
 
 	/*public void DealDamage()
 	{
