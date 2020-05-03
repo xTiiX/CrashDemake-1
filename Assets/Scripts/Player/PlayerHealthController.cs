@@ -12,6 +12,9 @@ public class PlayerHealthController : MonoBehaviour
 	private float invincibleCounter;
 	
 	private SpriteRenderer theSR;
+
+    public GameObject AkuAku;
+    public bool isAttack = false;
 	
 	private void Awake()
 	{
@@ -40,7 +43,7 @@ public class PlayerHealthController : MonoBehaviour
 	
 	public void DealDamage()
 	{
-		if(invincibleCounter <=0)
+		if(invincibleCounter <=0 && AkuAku.gameObject.activeInHierarchy == false)
 		{
 			//currentHealth -= 1;
 			currentHealth--;
@@ -63,5 +66,17 @@ public class PlayerHealthController : MonoBehaviour
 			
 			UIController.instance.UpdateHealthDisplay();
 		}
+
+        if (AkuAku.gameObject.activeInHierarchy)
+        {
+            isAttack = true;
+			PlayerController.instance.knockBack();
+        }
+	}
+
+    public void WinLife()
+    {
+		currentHealth++;
+		UIController.instance.UpdateHealthDisplay();
 	}
 }

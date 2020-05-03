@@ -41,15 +41,20 @@ public class PlayerController : MonoBehaviour
 			
 			isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, .2f, whatIsGround);
 			
-			if(Input.GetButtonDown("Jump"))
+			if (Input.GetButtonDown("Jump"))
 			{
 				if (isGrounded)
 				{
 					theRB.velocity = new Vector2(theRB.velocity.x, jumpForce);
 				}
 			}
+
+            if (Input.GetButtonDown("Fire1"))
+            {
+                crashAttack();
+            }
 			
-			if(theRB.velocity.x < 0)
+			if (theRB.velocity.x < 0)
 			{
 				theSR.flipX = true;
 			} else if(theRB.velocity.x > 0)
@@ -60,7 +65,7 @@ public class PlayerController : MonoBehaviour
 		} else
 		{
 			knockBackCounter -= Time.deltaTime;
-			if(!theSR.flipX)
+			if (!theSR.flipX)
 			{
 				theRB.velocity = new Vector2(-knockBackForce, theRB.velocity.y);
 			} else
@@ -78,4 +83,17 @@ public class PlayerController : MonoBehaviour
 		knockBackCounter = knockBackLength;
 		theRB.velocity = new Vector2(0f, knockBackForce);
 	}
+
+    public void boxJumped()
+    {
+		theRB.velocity = new Vector2(theRB.velocity.x, jumpForce * 1.5f);
+    }
+
+    public void crashAttack()
+    {
+        if (true)
+        {
+            
+        }
+    }
 }
