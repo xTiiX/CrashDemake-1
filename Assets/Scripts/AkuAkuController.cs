@@ -2,6 +2,8 @@
 
 public class AkuAkuController : MonoBehaviour
 {
+    public static AkuAkuController instance;
+
     public GameObject target;
 
     public float smoothSpeed = 15f;
@@ -10,7 +12,31 @@ public class AkuAkuController : MonoBehaviour
     private int left = 2;
     private int right = -2;
 
-    private int lives = 3;
+    public int lives = 3;
+
+    private void Awake()
+    {
+        instance = this;    
+    }
+
+    private void Start()
+    {
+        gameObject.transform.localScale = new Vector3(0.9f, 0.9f, 0);
+    }
+
+    private void FixedUpdate()
+    {
+        if (lives == 3)
+        {
+            gameObject.transform.localScale = new Vector3(0.9f, 0.9f, 0);
+        } else if (lives == 2)
+        {
+            gameObject.transform.localScale = new Vector3(0.7f, 0.7f, 0);
+        } else if (lives == 1)
+        {
+            gameObject.transform.localScale = new Vector3(0.5f, 0.5f, 0);
+        }
+    }
 
     private void LateUpdate()
     {
@@ -48,24 +74,40 @@ public class AkuAkuController : MonoBehaviour
                 if (lives == 3)
                 {
                     //3 lives 
-                    
+                    lives--;
 
+                    //Change the sprite
+                    target.GetComponent<PlayerHealthController>().isAttack = false;
                 }
                 else if (lives == 2)
                 {
                     //2 lives
+                    lives--;
 
-
+                    //Change the sprite
+                    target.GetComponent<PlayerHealthController>().isAttack = false;
                 }
                 else if (lives == 1)
                 {
                     //1 life
+                    lives--;
 
-
+                    //Change the sprite
+                    target.GetComponent<PlayerHealthController>().isAttack = false;
                 }
             }
 
         }
 
+    }
+
+    public void NewAkuAku()
+    {
+        if (lives == 0)
+        {
+            gameObject.SetActive(true);
+        }
+
+        lives = 3;
     }
 }
