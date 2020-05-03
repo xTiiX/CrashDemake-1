@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
 	
 	public float knockBackLength, knockBackForce;
 	private float knockBackCounter;
+	
+	public float bounceForce;
 
 	private float horizontal;
 
@@ -99,4 +101,9 @@ public class PlayerController : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
         isInAttack = false;
     }
+	
+	public void Bounce()
+	{
+		theRB.velocity = new Vector2(theRB.velocity.x, bounceForce);
+	}
 }
