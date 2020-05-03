@@ -48,4 +48,29 @@ public class EnemyController : MonoBehaviour
 			}
 		}
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        EnemyCollide(collision);
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        EnemyCollide(collision);
+    }
+
+    public void EnemyCollide(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
+            {
+                Destroy(gameObject);
+            }
+            else
+            {
+                PlayerHealthController.instance.DealDamage();
+            }
+        }
+    }
 }
