@@ -1,9 +1,8 @@
 ﻿using UnityEngine;
 
-public class BoxAkuAkuController : MonoBehaviour
+public class BoxNITROController : MonoBehaviour
 {
-    public static BoxAkuAkuController instance;
-    public GameObject akuAku;
+    public static BoxNITROController instance;
 
     private void Awake()
     {
@@ -26,9 +25,11 @@ public class BoxAkuAkuController : MonoBehaviour
         {
             if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
             {
+                collision.gameObject.GetComponent<PlayerHealthController>().DealDamage();
                 Destroy(gameObject);
-                akuAku.SetActive(true);
             }
         }
     }
 }
+
+

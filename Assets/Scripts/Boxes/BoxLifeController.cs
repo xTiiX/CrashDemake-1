@@ -3,8 +3,6 @@
 public class BoxLifeController : MonoBehaviour
 {
     public static BoxLifeController instance;
-
-    public GameObject crash;
     public GameObject life;
 
     private void Awake()
@@ -26,7 +24,7 @@ public class BoxLifeController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            if (crash.GetComponent<PlayerController>().isInAttack)
+            if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
             {
                 Destroy(gameObject);
                 life.SetActive(true);

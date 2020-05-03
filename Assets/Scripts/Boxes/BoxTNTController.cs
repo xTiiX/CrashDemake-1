@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
+using System.Collections;
 
-public class BoxAkuAkuController : MonoBehaviour
+public class BoxTNTController : MonoBehaviour
 {
-    public static BoxAkuAkuController instance;
-    public GameObject akuAku;
+    public static BoxTNTController instance;
 
     private void Awake()
     {
@@ -24,11 +24,16 @@ public class BoxAkuAkuController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
+            StartCoroutine(explosion());
+            if (collision.gameObject.CompareTag("Player"))
             {
-                Destroy(gameObject);
-                akuAku.SetActive(true);
+                collision.gameObject.GetComponent<PlayerHealthController>().DealDamage();
             }
         }
+    }
+
+    IEnumerator explosion()
+    {
+        yield return new WaitForSecondsRealtime(3f);
     }
 }
