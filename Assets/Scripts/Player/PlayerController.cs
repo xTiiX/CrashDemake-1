@@ -19,6 +19,8 @@ public class PlayerController : MonoBehaviour
 	private float knockBackCounter;
 
 	private float horizontal;
+
+	public bool isJumped = false;
 	
 	public void Awake()
 	{
@@ -45,9 +47,11 @@ public class PlayerController : MonoBehaviour
 			{
 				if (isGrounded)
 				{
+					isJumped = true;
 					theRB.velocity = new Vector2(theRB.velocity.x, jumpForce);
 				}
 			}
+
 			
 			if(theRB.velocity.x < 0)
 			{
@@ -68,7 +72,9 @@ public class PlayerController : MonoBehaviour
 				theRB.velocity = new Vector2(knockBackForce, theRB.velocity.y);
 			}
 		}
-		
+
+		isJumped = false;
+
 		anim.SetFloat("moveSpeed", Mathf.Abs(theRB.velocity.x));
 		anim.SetBool("isGrounded", isGrounded);
     }
