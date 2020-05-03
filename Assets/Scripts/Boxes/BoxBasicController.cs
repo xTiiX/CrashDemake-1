@@ -13,7 +13,6 @@ public class BoxBasicController : MonoBehaviour
         {
             if (crash.GetComponent<PlayerController>().isInAttack)
             {
-                Debug.Log("Is Dead");
                 wumpa.SetActive(true);
                 Destroy(gameObject);
             }

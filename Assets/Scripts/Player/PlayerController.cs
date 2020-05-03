@@ -55,7 +55,6 @@ public class PlayerController : MonoBehaviour
             if (Input.GetButtonDown("Attack"))
             {
                 StartCoroutine(crashAttack());
-                Debug.Log("Launch Attack");
             }
 			
 			if (theRB.velocity.x < 0)
@@ -97,7 +96,6 @@ public class PlayerController : MonoBehaviour
     IEnumerator crashAttack()
     {
         isInAttack = true;
-        Debug.Log("Crash is Attacking");
         yield return new WaitForSeconds(1.5f);
         isInAttack = false;
     }
