@@ -8,7 +8,8 @@ public class PlayerController : MonoBehaviour
 	public float moveSpeed;
 	public Rigidbody2D theRB;
 	public float jumpForce;
-		
+
+	public bool isJumped;
 	public bool isGrounded;
 	public Transform groundCheckPoint;
 	public LayerMask whatIsGround;
@@ -21,7 +22,8 @@ public class PlayerController : MonoBehaviour
 
 	private float horizontal;
 
-    public bool isAttacking = false;
+
+  public bool isAttacking = false;
 	
 	public void Awake()
 	{
@@ -48,15 +50,18 @@ public class PlayerController : MonoBehaviour
 			{
 				if (isGrounded)
 				{
+					isJumped = true;
 					theRB.velocity = new Vector2(theRB.velocity.x, jumpForce);
 				}
 			}
 
-            if (Input.GetButtonDown("Attack"))
-            {
-                StartCoroutine(crashAttack());
-                Debug.Log("Launch Attack");
-            }
+			//isJumped = false;
+
+      if (Input.GetButtonDown("Attack"))
+      {
+          StartCoroutine(crashAttack());
+          Debug.Log("Launch Attack");
+      }
 			
 			if (theRB.velocity.x < 0)
 			{
@@ -65,7 +70,6 @@ public class PlayerController : MonoBehaviour
 			{
 				theSR.flipX = false;
 			}
-		
 		} else
 		{
 			knockBackCounter -= Time.deltaTime;
@@ -77,10 +81,10 @@ public class PlayerController : MonoBehaviour
 				theRB.velocity = new Vector2(knockBackForce, theRB.velocity.y);
 			}
 		}
-		
+
+
 		anim.SetFloat("moveSpeed", Mathf.Abs(theRB.velocity.x));
 		anim.SetBool("isGrounded", isGrounded);
-        anim.SetBool("isAttacking", isAttacking);
     }
 	
 	public void knockBack()
