@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: a55eed2d7fc1bff44a90c73604d71d9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6694620956290766703
+    second: Akuakumatata_0
+  - first:
+      213: -333371803525460905
+    second: Akuakumatata_1
+  - first:
+      213: 8037084947863809043
+    second: Akuakumatata_2
+  - first:
+      213: -3976354770653766422
+    second: Akuakumatata_3
+  - first:
+      213: 4108173288923732035
+    second: Akuakumatata_4
+  - first:
+      213: 7068035296105322632
+    second: Akuakumatata_5
+  - first:
+      213: 4132197773832830354
+    second: Akuakumatata_6
+  - first:
+      213: -4597332442814056304
+    second: Akuakumatata_7
+  - first:
+      213: 3716897676796441055
+    second: Akuakumatata_8
+  - first:
+      213: -2932065366747728557
+    second: Akuakumatata_9
+  - first:
+      213: -578928769766732285
+    second: Akuakumatata_10
+  - first:
+      213: -2397887769129137646
+    second: Akuakumatata_11
+  - first:
+      213: 451601382003694851
+    second: Akuakumatata_12
+  - first:
+      213: 5895593952256425587
+    second: Akuakumatata_13
+  - first:
+      213: 7346473839396018972
+    second: Akuakumatata_14
+  - first:
+      213: 2601509790375120878
+    second: Akuakumatata_15
+  - first:
+      213: -6687387561771915173
+    second: Akuakumatata_16
+  - first:
+      213: -3725056407611270979
+    second: Akuakumatata_17
+  - first:
+      213: 3924681269585269267
+    second: Akuakumatata_18
+  - first:
+      213: 5209114032280261126
+    second: Akuakumatata_19
+  - first:
+      213: 8790333679883770035
+    second: Akuakumatata_20
+  - first:
+      213: 1182346201772859411
+    second: Akuakumatata_21
+  - first:
+      213: 5656030639012867224
+    second: Akuakumatata_22
+  - first:
+      213: -103578549437714149
+    second: Akuakumatata_23
+  - first:
+      213: -4644708579446228344
+    second: Akuakumatata_24
+  - first:
+      213: 7310176568483590122
+    second: Akuakumatata_25
+  - first:
+      213: 4039755777337445407
+    second: Akuakumatata_26
+  - first:
+      213: -5230484613282786307
+    second: Akuakumatata_27
+  - first:
+      213: 5637032741276869985
+    second: Akuakumatata_28
+  - first:
+      213: -4158695183172244693
+    second: Akuakumatata_29
+  - first:
+      213: 5830722020433134134
+    second: Akuakumatata_30
+  - first:
+      213: 8420586675396261226
+    second: Akuakumatata_31
+  - first:
+      213: -1429901492879231012
+    second: Akuakumatata_32
+  - first:
+      213: -3127842400459631732
+    second: Akuakumatata_33
+  - first:
+      213: -4962412649042355187
+    second: Akuakumatata_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Akuakumatata_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d8954a4218ec50800000000000000
+      internalID: 6694620956290766703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 215
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ccbb86c10af5bf0800000000000000
+      internalID: -333371803525460905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31caf038d26798f60800000000000000
+      internalID: 8037084947863809043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec904a576621d8c0800000000000000
+      internalID: -3976354770653766422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 154
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3481c0a17d9230930800000000000000
+      internalID: 4108173288923732035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d74c57a4b61260800000000000000
+      internalID: 7068035296105322632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 154
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d37f26bf3885930800000000000000
+      internalID: 4132197773832830354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 154
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09870bf308ef230c0800000000000000
+      internalID: -4597332442814056304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 154
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13deb7eb2159330800000000000000
+      internalID: 3716897676796441055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 154
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355b6cc65163f47d0800000000000000
+      internalID: -2932065366747728557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 154
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eccc7e95b37f7f0800000000000000
+      internalID: -578928769766732285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21acdcd47cdf8bed0800000000000000
+      internalID: -2397887769129137646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dd7627019644600800000000000000
+      internalID: 451601382003694851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e7f20a67b51d150800000000000000
+      internalID: 5895593952256425587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 108
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b56ec980be3f560800000000000000
+      internalID: 7346473839396018972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 108
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef8207fe5b6a1420800000000000000
+      internalID: 2601509790375120878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b582831a170a133a0800000000000000
+      internalID: -6687387561771915173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db89908fee0fd4cc0800000000000000
+      internalID: -3725056407611270979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312524222d4477630800000000000000
+      internalID: 3924681269585269267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 93
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60251900d9d7a4840800000000000000
+      internalID: 5209114032280261126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8df9e98e98df970800000000000000
+      internalID: 8790333679883770035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310243e2b99886010800000000000000
+      internalID: 1182346201772859411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c661536e14e7e40800000000000000
+      internalID: 5656030639012867224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b113a6aabd3009ef0800000000000000
+      internalID: -103578549437714149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 40
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af5ecd72eaa8fb0800000000000000
+      internalID: -4644708579446228344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef29d9abd6f27560800000000000000
+      internalID: 7310176568483590122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 40
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc787d978101830800000000000000
+      internalID: 4039755777337445407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 40
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3122ed4f59967b0800000000000000
+      internalID: -5230484613282786307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ed037963ca3e40800000000000000
+      internalID: 5637032741276869985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be3edb3c85946c0800000000000000
+      internalID: -4158695183172244693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63207fbf8c2eae050800000000000000
+      internalID: 5830722020433134134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b16397feebd470800000000000000
+      internalID: 8420586675396261226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f12d0b28f72ce0800000000000000
+      internalID: -1429901492879231012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d237a8eba794d0800000000000000
+      internalID: -3127842400459631732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akuakumatata_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cdce8dcf7f12bb0800000000000000
+      internalID: -4962412649042355187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
