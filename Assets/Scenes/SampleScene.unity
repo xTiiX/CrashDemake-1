@@ -671,7 +671,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   crash: {fileID: 1184332992}
-  wumpa: {fileID: 1446913243}
+  wumpa: {fileID: 1274324619}
 --- !u!61 &275032299
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -847,6 +847,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Wumpa (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1090353231421025369, guid: c0000055913e2488faf7d1c376b06967,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1090353231421025373, guid: c0000055913e2488faf7d1c376b06967,
         type: 3}
@@ -2383,6 +2388,12 @@ MonoBehaviour:
   invincibleLength: 1
   AkuAku: {fileID: 477914838}
   isAttacked: 0
+--- !u!1 &1274324619 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1090353231421025369, guid: c0000055913e2488faf7d1c376b06967,
+    type: 3}
+  m_PrefabInstance: {fileID: 838458182}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1360410869
 GameObject:
   m_ObjectHideFlags: 0
@@ -2458,12 +2469,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1360410869}
   m_CullTransparentMesh: 0
---- !u!1 &1446913243 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1090353231421025369, guid: c0000055913e2488faf7d1c376b06967,
-    type: 3}
-  m_PrefabInstance: {fileID: 477019330}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1501961569
 GameObject:
   m_ObjectHideFlags: 0

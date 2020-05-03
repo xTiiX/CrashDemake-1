@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class BoxBasicController : MonoBehaviour
 {
@@ -12,8 +13,9 @@ public class BoxBasicController : MonoBehaviour
         {
             if (crash.GetComponent<PlayerController>().isInAttack)
             {
+                Debug.Log("Is Dead");
                 wumpa.SetActive(true);
-                GameObject.Destroy(gameObject);
+                Destroy(gameObject);
             }
         }
     }
