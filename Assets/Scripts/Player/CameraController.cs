@@ -2,20 +2,36 @@
 
 public class CameraController : MonoBehaviour
 {
-	public Transform target;
-	
+    public GameObject target;
+    
+    private float positionY;
+    private float oldPosY;
+
+
 	public Transform farBackground, middleBackground;
 	
 	private float lastXPos;
     
+
     void Start()
     {
         lastXPos = transform.position.x;
+        oldPosY = transform.position.y;
     }
 
     void Update()
     {
-       transform.position = new Vector3(target.position.x, transform.position.y, transform.position.z); 
+
+        //print(target.GetComponent<PlayerController>().isJumped);
+        if (target.GetComponent<PlayerController>().isJumped)
+        {
+            positionY = target.transform.position.y;
+        } else
+        {
+            positionY = oldPosY;
+        }
+
+       transform.position = new Vector3(target.transform.position.x, transform.position.y, transform.position.z); 
 	   
 	   float amountToMoveX = transform.position.x - lastXPos;
 	   
@@ -23,5 +39,6 @@ public class CameraController : MonoBehaviour
 	   middleBackground.position += new Vector3(amountToMoveX * .5f, 0f, 0f);
 	   
 	   lastXPos = transform.position.x;
+
     }
 }
