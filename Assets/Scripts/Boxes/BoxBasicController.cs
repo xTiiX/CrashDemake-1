@@ -8,12 +8,12 @@ public class BoxBasicController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject == crash)
+        if (collision.gameObject.CompareTag("Player"))
         {
             if (crash.GetComponent<PlayerController>().isInAttack)
             {
-                wumpa.SetActive(true);
                 Destroy(gameObject);
+                wumpa.SetActive(true);
             }
         }
     }
