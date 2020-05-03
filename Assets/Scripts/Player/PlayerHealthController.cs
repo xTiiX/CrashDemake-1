@@ -40,8 +40,38 @@ public class PlayerHealthController : MonoBehaviour
 			}
 		}
     }
-	
+
 	public void DealDamage()
+	{
+		if (AkuAku.gameObject.activeInHierarchy == false)
+		{
+			//currentHealth -= 1;
+			currentHealth--;
+
+			LevelManager.instance.RespawnPlayer();
+
+			if (currentHealth <= 0)
+			{
+				currentHealth = 0;
+				print("you are dead");
+
+				//gameObject.SetActive(false);
+			}
+
+			UIController.instance.UpdateHealthDisplay();
+		}
+
+		if (AkuAku.gameObject.activeInHierarchy)
+		{
+			invincibleCounter = invincibleLength;
+
+			theSR.color = new Color(theSR.color.r, theSR.color.g, theSR.color.b, .5f);
+			isAttacked = true;
+			PlayerController.instance.knockBack();
+		}
+	}
+
+	/*public void DealDamage()
 	{
 		if(invincibleCounter <=0 && AkuAku.gameObject.activeInHierarchy == false)
 		{
@@ -72,9 +102,9 @@ public class PlayerHealthController : MonoBehaviour
             isAttacked = true;
 			PlayerController.instance.knockBack();
         }
-	}
+	}*/
 
-    public void WinLife()
+	public void WinLife()
     {
 		currentHealth++;
 		UIController.instance.UpdateHealthDisplay();
