@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -21,6 +22,8 @@ public class PlayerController : MonoBehaviour
 	public float bounceForce;
 
 	private float horizontal;
+
+    public bool isInAttack;
 	
 	public void Awake()
 	{
@@ -51,9 +54,9 @@ public class PlayerController : MonoBehaviour
 				}
 			}
 
-            if (Input.GetButtonDown("Fire1"))
+            if (Input.GetButtonDown("Attack"))
             {
-                crashAttack();
+                StartCoroutine(crashAttack());
             }
 			
 			if (theRB.velocity.x < 0)
@@ -78,6 +81,7 @@ public class PlayerController : MonoBehaviour
 		
 		anim.SetFloat("moveSpeed", Mathf.Abs(theRB.velocity.x));
 		anim.SetBool("isGrounded", isGrounded);
+        anim.SetBool("isInAttack", isInAttack);
     }
 	
 	public void knockBack()
@@ -91,12 +95,11 @@ public class PlayerController : MonoBehaviour
 		theRB.velocity = new Vector2(theRB.velocity.x, jumpForce * 1.5f);
     }
 
-    public void crashAttack()
+    IEnumerator crashAttack()
     {
-        if (true)
-        {
-            
-        }
+        isInAttack = true;
+        yield return new WaitForSeconds(1.5f);
+        isInAttack = false;
     }
 	
 	public void Bounce()
