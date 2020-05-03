@@ -105,14 +105,9 @@ public class AkuAkuController : MonoBehaviour
     {
         if (lives == 0)
         {
-            lives = 3;
             gameObject.SetActive(true);
-        } else if (lives == 1)
-        {
-            lives += 2;
-        } else if(lives == 2)
-        {
-            lives++;
         }
+
+        lives = 3;
     }
 }
