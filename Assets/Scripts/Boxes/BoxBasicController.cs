@@ -8,7 +8,6 @@ public class BoxBasicController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        Debug.Log(collider.tag);
         if (collider.tag == "Player")
         {
             if (crash.GetComponent<PlayerController>().isInAttack)
