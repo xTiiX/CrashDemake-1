@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WumpaAmount
   - LifeAmount
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -40,6 +41,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG Far
+    uniqueID: 534147873
+    locked: 0
   - name: BG
     uniqueID: 1035786117
     locked: 0
