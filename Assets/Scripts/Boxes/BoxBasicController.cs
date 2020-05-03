@@ -2,8 +2,8 @@
 
 public class BoxBasicController : MonoBehaviour
 {
-    public int lives = 1;
     public GameObject crash;
+    public GameObject wumpa;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -11,6 +11,7 @@ public class BoxBasicController : MonoBehaviour
         {
             if (crash.GetComponent<PlayerController>().isAttacking)
             {
+                wumpa.SetActive(true);
                 GameObject.Destroy(gameObject);
             }
         }
