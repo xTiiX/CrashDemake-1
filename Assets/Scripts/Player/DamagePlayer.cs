@@ -2,24 +2,12 @@
 
 public class DamagePlayer : MonoBehaviour
 {
-    void Start()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
-    }
-
-    void Update()
-    {
-        
-    }
-	
-	private void OnTriggerEnter2D(Collider2D other)
-	{
-		if (other.tag == "Player")
+        if (other.tag == "Player")
         {
             PlayerHealthController.instance.DealDamage();
         }
-		
-	}
 
-	
+    }
 }

@@ -69,7 +69,7 @@ public class AkuAkuController : MonoBehaviour
             }
 
             //Shield
-            if (target.GetComponent<PlayerHealthController>().isAttack)
+            if (target.GetComponent<PlayerHealthController>().isAttacked)
             {
                 if (lives == 3)
                 {
@@ -77,7 +77,7 @@ public class AkuAkuController : MonoBehaviour
                     lives--;
 
                     //Change the sprite
-                    target.GetComponent<PlayerHealthController>().isAttack = false;
+                    target.GetComponent<PlayerHealthController>().isAttacked = false;
                 }
                 else if (lives == 2)
                 {
@@ -85,7 +85,7 @@ public class AkuAkuController : MonoBehaviour
                     lives--;
 
                     //Change the sprite
-                    target.GetComponent<PlayerHealthController>().isAttack = false;
+                    target.GetComponent<PlayerHealthController>().isAttacked = false;
                 }
                 else if (lives == 1)
                 {
@@ -93,7 +93,7 @@ public class AkuAkuController : MonoBehaviour
                     lives--;
 
                     //Change the sprite
-                    target.GetComponent<PlayerHealthController>().isAttack = false;
+                    target.GetComponent<PlayerHealthController>().isAttacked = false;
                 }
             }
 

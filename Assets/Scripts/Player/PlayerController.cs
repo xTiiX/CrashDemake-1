@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -19,6 +20,8 @@ public class PlayerController : MonoBehaviour
 	private float knockBackCounter;
 
 	private float horizontal;
+
+    public bool isAttacking = false;
 	
 	public void Awake()
 	{
@@ -49,9 +52,10 @@ public class PlayerController : MonoBehaviour
 				}
 			}
 
-            if (Input.GetButtonDown("Fire1"))
+            if (Input.GetButtonDown("Attack"))
             {
-                crashAttack();
+                StartCoroutine(crashAttack());
+                Debug.Log("Launch Attack");
             }
 			
 			if (theRB.velocity.x < 0)
@@ -89,11 +93,13 @@ public class PlayerController : MonoBehaviour
 		theRB.velocity = new Vector2(theRB.velocity.x, jumpForce * 1.5f);
     }
 
-    public void crashAttack()
+    IEnumerator crashAttack()
     {
-        if (true)
-        {
-            
-        }
+        isAttacking = true;
+        GetComponent<SpriteRenderer>().color = Color.blue;
+        Debug.Log("Crash is Attacking");
+        yield return new WaitForSeconds(1f);
+        isAttacking = false;
+        GetComponent<SpriteRenderer>().color = Color.white;
     }
 }
