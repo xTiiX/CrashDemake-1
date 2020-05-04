@@ -82,47 +82,16 @@ public class PlayerHealthController : MonoBehaviour
         if (currentHealth <= 0)
         {
             currentHealth = 0;
-            print("you are dead");
-
-            //gameObject.SetActive(false);
         }
-
-        UIController.instance.UpdateHealthDisplay();
-        GetComponent<PlayerController>().isInAttack = false;
-    }
-
-	/*public void DealDamage()
-	{
-		if(invincibleCounter <=0 && AkuAku.gameObject.activeInHierarchy == false)
-		{
-			//currentHealth -= 1;
-			currentHealth--;
-			
-			if(currentHealth <= 0)
-			{
-				currentHealth = 0;
-				
-				//gameObject.SetActive(false);
-				
-				LevelManager.instance.RespawnPlayer();
-			} else
-			{
-				invincibleCounter = invincibleLength;
-				
-				theSR.color = new Color(theSR.color.r, theSR.color.g, theSR.color.b, .5f);
-				
-				PlayerController.instance.knockBack();
-			}
-			
-			UIController.instance.UpdateHealthDisplay();
-		}
 
         if (AkuAku.gameObject.activeInHierarchy)
         {
-            isAttacked = true;
-			PlayerController.instance.knockBack();
+			AkuAkuController.instance.lives = 0;
         }
-	}*/
+
+        UIController.instance.UpdateHealthDisplay();
+        PlayerController.instance.isInAttack = false;
+    }
 
 	public void WinLife()
     {
