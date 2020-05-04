@@ -7,7 +7,7 @@ TagManager:
   - WumpaAmount
   - LifeAmount
   - Enemy
-  - Ground
+  - AkuAku
   layers:
   - Default
   - TransparentFX
