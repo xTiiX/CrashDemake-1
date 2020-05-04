@@ -2738,6 +2738,11 @@ PrefabInstance:
       propertyPath: akuAku
       value: 
       objectReference: {fileID: 1746392175}
+    - target: {fileID: 8140297680856075305, guid: cbda3d8782e805d4388cea115e125742,
+        type: 3}
+      propertyPath: akuAkuLife
+      value: 
+      objectReference: {fileID: 1746392175}
     - target: {fileID: 8265294548032700449, guid: cbda3d8782e805d4388cea115e125742,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9287,6 +9292,11 @@ PrefabInstance:
     - target: {fileID: 2362317684892500682, guid: 9df7f0eed8ac4234a9a5476c4c4245f1,
         type: 3}
       propertyPath: m_Name
+      value: AkuAku
+      objectReference: {fileID: 0}
+    - target: {fileID: 2362317684892500682, guid: 9df7f0eed8ac4234a9a5476c4c4245f1,
+        type: 3}
+      propertyPath: m_TagString
       value: AkuAku
       objectReference: {fileID: 0}
     m_RemovedComponents: []

@@ -3,7 +3,7 @@
 public class BoxAkuAkuController : MonoBehaviour
 {
     public static BoxAkuAkuController instance;
-    public GameObject akuAku;
+    public GameObject akuAkuLife;
 
     private void Awake()
     {
@@ -27,7 +27,7 @@ public class BoxAkuAkuController : MonoBehaviour
             if (collision.gameObject.GetComponent<PlayerController>().isInAttack)
             {
                 Destroy(gameObject);
-                akuAku.SetActive(true);
+                akuAkuLife.SetActive(true);
             }
         }
     }
