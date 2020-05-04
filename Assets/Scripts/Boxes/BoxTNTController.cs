@@ -23,7 +23,17 @@ public class BoxTNTController : MonoBehaviour
             } else if (PlayerController.instance.isInAttack)
             {
                 isExplose = true;
-                GameObject.FindGameObjectWithTag("AkuAku").GetComponent<AkuAkuController>().lives = 0;
+            }
+        }
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            if (PlayerController.instance.isInAttack)
+            {
+                isExplose = true;
             }
         }
     }
@@ -32,6 +42,5 @@ public class BoxTNTController : MonoBehaviour
     {
         yield return new WaitForSeconds(3f);
         isExplose = true;
-        GameObject.FindGameObjectWithTag("AkuAku").GetComponent<AkuAkuController>().lives = 0;
     }
 }
