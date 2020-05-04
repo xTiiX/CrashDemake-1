@@ -17,7 +17,7 @@ public class BoxTNTExplosionController : MonoBehaviour
             Destroy(collision.gameObject);
         } else if (collision.gameObject.CompareTag("Player") && parentIsExplose && !playerDead)
         {
-            PlayerHealthController.instance.DealDamage();
+            PlayerHealthController.instance.explosion();
             playerDead = true;
         } else if (parentIsExplose)
         {

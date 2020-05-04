@@ -23,7 +23,7 @@ public class BoxNITROController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            collision.gameObject.GetComponent<PlayerHealthController>().explosionNITRO();
+            PlayerHealthController.instance.explosion();
             Destroy(gameObject);
         }
     }
