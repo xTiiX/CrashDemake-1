@@ -24,6 +24,7 @@ public class BoxNITROController : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             PlayerHealthController.instance.explosion();
+            GameObject.FindGameObjectWithTag("AkuAku").GetComponent<AkuAkuController>().lives = 0;
             Destroy(gameObject);
         }
     }
