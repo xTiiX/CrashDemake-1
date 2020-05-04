@@ -8,7 +8,6 @@ public class AkuAkuLifeController : MonoBehaviour
     private void Awake()
     {
         instance = this;
-        akuAku = GameObject.FindGameObjectWithTag("AkuAku");
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

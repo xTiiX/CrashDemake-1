@@ -4770,6 +4770,11 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 2.457441
       objectReference: {fileID: 0}
+    - target: {fileID: 1887391679179262009, guid: d7090a7b6dc1e43fc90cf657273527e9,
+        type: 3}
+      propertyPath: akuAku
+      value: 
+      objectReference: {fileID: 1629482413}
     - target: {fileID: 1887391679179262010, guid: d7090a7b6dc1e43fc90cf657273527e9,
         type: 3}
       propertyPath: m_Name
