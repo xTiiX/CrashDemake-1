@@ -25,6 +25,10 @@ public class AkuAkuLifeController : MonoBehaviour
                 akuAku.GetComponent<AkuAkuController>().lives++;
                 Destroy(gameObject);
             }
+            else
+            {
+                Destroy(gameObject);
+            }
         }
     }
 }
