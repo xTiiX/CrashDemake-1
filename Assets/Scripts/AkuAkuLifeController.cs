@@ -16,13 +16,18 @@ public class AkuAkuLifeController : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             if (akuAku.GetComponent<AkuAkuController>().lives <= 0)
-            { 
-                AkuAkuController.instance.NewAkuAku();
+            {
+                akuAku.SetActive(true);
+                akuAku.GetComponent<AkuAkuController>().lives++;
                 Destroy(gameObject);
             }
             else if (akuAku.GetComponent<AkuAkuController>().lives <= 2)
             {
                 akuAku.GetComponent<AkuAkuController>().lives++;
+                Destroy(gameObject);
+            }
+            else
+            {
                 Destroy(gameObject);
             }
         }

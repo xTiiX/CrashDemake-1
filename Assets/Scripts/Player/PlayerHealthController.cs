@@ -72,7 +72,7 @@ public class PlayerHealthController : MonoBehaviour
 		}
 	}
 
-    public void explosionNITRO()
+    public void explosion()
     {
         //currentHealth -= 1;
         currentHealth--;

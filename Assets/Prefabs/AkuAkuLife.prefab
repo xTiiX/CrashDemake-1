@@ -122,3 +122,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9d311c6af7d740c897478eef3c91191, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  akuAku: {fileID: 2362317684892500682, guid: 9df7f0eed8ac4234a9a5476c4c4245f1, type: 3}
