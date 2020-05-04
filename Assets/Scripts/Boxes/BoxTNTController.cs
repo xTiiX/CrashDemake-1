@@ -4,7 +4,8 @@ using System.Collections;
 public class BoxTNTController : MonoBehaviour
 {
     public static BoxTNTController instance;
-    private bool corout = false;
+    public bool isExplose = false;
+
 
     private void Awake()
     {
@@ -13,24 +14,22 @@ public class BoxTNTController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        BoxDestroy(collision);
-    }
-
-    private void OnCollisionStay2D(Collision2D collision)
-    {
-        BoxDestroy(collision);
-    }
-
-    public void BoxDestroy(Collision2D collision)
-    {
         if (collision.gameObject.CompareTag("Player"))
         {
-            StartCoroutine(explosion());
+            var normal = collision.contacts[0].normal;
+            if (normal.y < 0)
+            {
+                StartCoroutine(explosion());
+            } else if (PlayerController.instance.isInAttack)
+            {
+                isExplose = true;
+            }
         }
     }
 
     IEnumerator explosion()
     {
         yield return new WaitForSeconds(3f);
+        isExplose = true;
     }
 }
