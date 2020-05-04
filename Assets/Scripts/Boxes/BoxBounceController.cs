@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class BoxBounceController : MonoBehaviour
@@ -7,7 +6,7 @@ public class BoxBounceController : MonoBehaviour
     public GameObject wumpa;
     public Vector3 boxPos;
 
-    private int numberOfWumpa = 9;
+    private int numberOfWumpa = 10;
 
     public void Start()
     {
@@ -19,17 +18,23 @@ public class BoxBounceController : MonoBehaviour
         var normal = collision.contacts[0].normal;
         if (normal.y < 0)
         {
-            PlayerController.instance.boxJumped();
-            if (numberOfWumpa > 0)
+            if (numberOfWumpa < 1)
             {
-                Instantiate(wumpa, boxPos, new Quaternion(0, 0, 0, 0), transform);
-                numberOfWumpa--;
+                StartCoroutine(BoxBounceDestroy());
+                gameObject.SetActive(false);
             }
             else
             {
+                PlayerController.instance.boxJumped();
                 Instantiate(wumpa, boxPos, new Quaternion(0, 0, 0, 0), transform);
-                Destroy(gameObject);
             }
+            numberOfWumpa--;
         }
+    }
+
+    IEnumerator BoxBounceDestroy()
+    {
+        yield return new WaitForSeconds(0.5f);
+        Destroy(gameObject);
     }
 }
