@@ -26,16 +26,11 @@ public class BoxTNTController : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             StartCoroutine(explosion());
-            if (collision.gameObject.CompareTag("Player"))
-            {
-                collision.gameObject.GetComponent<PlayerHealthController>().DealDamage();
-            }
         }
     }
 
     IEnumerator explosion()
     {
         yield return new WaitForSeconds(3f);
-        corout = true;
     }
 }
