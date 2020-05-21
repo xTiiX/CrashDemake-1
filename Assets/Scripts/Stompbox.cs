@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Stompbox : MonoBehaviour
 {
-	public GameObject deathEffect;
+    //public GameObject deathEffect;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,10 +24,10 @@ public class Stompbox : MonoBehaviour
 			Debug.Log("Hit Enemy");
 			
 			other.transform.parent.gameObject.SetActive(false);
-			
-			Instantiate(deathEffect, other.transform.position, other.transform.rotation);
-			
-			PlayerController.instance.Bounce();
+
+            //Instantiate(deathEffect, other.transform.position, other.transform.rotation);
+
+            PlayerController.instance.Bounce();
 		}
 	}
 }
