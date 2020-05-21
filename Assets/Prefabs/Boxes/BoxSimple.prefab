@@ -95,8 +95,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12dd420bd873a7f4db129bbbb511bdd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  crash: {fileID: 1346291882571339526, guid: 24ec3391b534b01418e32b4f48cc4cbb, type: 3}
-  wumpa: {fileID: 0}
+  wumpa: {fileID: 1090353231421025369, guid: c0000055913e2488faf7d1c376b06967, type: 3}
 --- !u!61 &7575218100247376314
 BoxCollider2D:
   m_ObjectHideFlags: 0
